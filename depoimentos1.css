@@ -1,0 +1,308 @@
+.depoimentos1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.depoimentos1-depoimentos {
+  width: 100%;
+  height: 210px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.depoimentos1-group1 {
+  top: 0px;
+  left: 0px;
+  width: 325px;
+  height: 269px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.depoimentos1-rectangle16 {
+  top: 35px;
+  left: 0px;
+  width: 325px;
+  height: 234px;
+  position: absolute;
+  border-radius: 25px;
+}
+.depoimentos1-maskgroup {
+  top: 0px;
+  left: 27.111328125px;
+  width: 69.52304077148438px;
+  height: 69.52304077148438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.depoimentos1-ellipse3 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.depoimentos1-mediumshotsmileywomanposing1 {
+  top: -10.907073974609375px;
+  left: -15.763313293457031px;
+  width: 101px;
+  height: 152px;
+  position: absolute;
+}
+.depoimentos1-text {
+  top: 229.17041015625px;
+  left: 27.111328125px;
+  color: rgba(157, 157, 157, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.depoimentos1-text02 {
+  top: 88px;
+  left: 27px;
+  color: rgba(157, 157, 157, 1);
+  width: 271px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.depoimentos1-group2 {
+  top: 0px;
+  left: 365px;
+  width: 326px;
+  height: 269px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.depoimentos1-rectangle161 {
+  top: 35px;
+  left: 0px;
+  width: 326px;
+  height: 234px;
+  position: absolute;
+  border-radius: 25px;
+}
+.depoimentos1-maskgroup1 {
+  top: 0px;
+  left: 27.4794921875px;
+  width: 69.52304077148438px;
+  height: 69.52304077148438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.depoimentos1-ellipse31 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.depoimentos1-mediumshotsmileywomanposing11 {
+  top: -15.95923900604248px;
+  left: -27.111328125px;
+  width: 101px;
+  height: 152px;
+  position: absolute;
+}
+.depoimentos1-text04 {
+  top: 229.17041015625px;
+  left: 27.4794921875px;
+  color: rgba(157, 157, 157, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.depoimentos1-text06 {
+  top: 88px;
+  left: 27px;
+  color: rgba(157, 157, 157, 1);
+  width: 272px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.depoimentos1-group3 {
+  top: 0px;
+  left: 731px;
+  width: 325px;
+  height: 269px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.depoimentos1-rectangle162 {
+  top: 35px;
+  left: 0px;
+  width: 325px;
+  height: 234px;
+  position: absolute;
+  border-radius: 25px;
+}
+.depoimentos1-maskgroup2 {
+  top: 0px;
+  left: 26.84765625px;
+  width: 69.52304077148438px;
+  height: 69.52304077148438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.depoimentos1-ellipse32 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.depoimentos1-mediumshotsmileywomanposing12 {
+  top: -28.477691650390625px;
+  left: -22.696044921875px;
+  width: 92px;
+  height: 138px;
+  position: absolute;
+}
+.depoimentos1-text08 {
+  top: 229.17041015625px;
+  left: 26.84765625px;
+  color: rgba(157, 157, 157, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.depoimentos1-text10 {
+  top: 88px;
+  left: 27px;
+  color: rgba(157, 157, 157, 1);
+  width: 271px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.depoimentos1-group4 {
+  top: 0px;
+  left: 1096px;
+  width: 325px;
+  height: 269px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.depoimentos1-rectangle163 {
+  top: 35px;
+  left: 0px;
+  width: 325px;
+  height: 234px;
+  position: absolute;
+  border-radius: 25px;
+}
+.depoimentos1-maskgroup3 {
+  top: 0px;
+  left: 27.2158203125px;
+  width: 69.52304077148438px;
+  height: 69.52304077148438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.depoimentos1-ellipse33 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.depoimentos1-mediumshotsmileywomanposing13 {
+  top: -10.907073974609375px;
+  left: -0.03329727053642273px;
+  width: 70px;
+  height: 104px;
+  position: absolute;
+}
+.depoimentos1-text12 {
+  top: 229.17041015625px;
+  left: 27.2158203125px;
+  color: rgba(157, 157, 157, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.depoimentos1-text14 {
+  top: 88px;
+  left: 27px;
+  color: rgba(157, 157, 157, 1);
+  width: 271px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}

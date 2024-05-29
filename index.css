@@ -1,0 +1,5258 @@
+.intervet-clnica-landing-page-mobile-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.intervet-clnica-landing-page-mobile-intervet-clnica-landing-page-mobile {
+  width: 100%;
+  height: 11251px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.intervet-clnica-landing-page-mobile-rectangle17 {
+  top: 8687px;
+  left: 0px;
+  width: 430px;
+  height: 1063px;
+  position: absolute;
+  border-radius: 0 0 160px 160px;
+}
+.intervet-clnica-landing-page-mobile-group17 {
+  top: 9463px;
+  left: 37px;
+  width: 357px;
+  height: 184.85435485839844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-cta {
+  top: 75.0966796875px;
+  left: 92.42724609375px;
+  width: 172.1456298828125px;
+  height: 48.52427291870117px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.intervet-clnica-landing-page-mobile-group1 {
+  top: 10.397242546081543px;
+  left: 20.796123504638672px;
+  width: 128.8292236328125px;
+  height: 28.1552734375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-icontel {
+  top: 0px;
+  left: 0px;
+  width: 27.710880279541016px;
+  height: 27.7281551361084px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector {
+  top: 4.865063667297363px;
+  left: 0px;
+  width: 24px;
+  height: 23px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector001 {
+  top: 6.091796875px;
+  left: 17.915283203125px;
+  width: 6px;
+  height: 5px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector002 {
+  top: 2.949275493621826px;
+  left: 20.904571533203125px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector003 {
+  top: 5.2099609375px;
+  left: 15.8079833984375px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector004 {
+  top: 5.2099609375px;
+  left: 23.2828369140625px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector005 {
+  top: 2.949275493621826px;
+  left: 18.185882568359375px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector006 {
+  top: 0px;
+  left: 13.671426773071289px;
+  width: 14px;
+  height: 17px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text {
+  top: 1.1552734375px;
+  left: 35.8292236328125px;
+  color: rgba(68, 170, 75, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11.553398132324219px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text001 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text003 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-cta01 {
+  top: 136.330078125px;
+  left: 75.09716796875px;
+  width: 206.8058319091797px;
+  height: 48.52427291870117px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-group2 {
+  top: 10.3984375px;
+  left: 20.796142578125px;
+  width: 164.45263671875px;
+  height: 28.1552734375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text005 {
+  top: 1.1552734375px;
+  left: 33.45263671875px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11.553398132324219px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text006 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text008 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-vector007 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text010 {
+  color: rgba(255, 255, 255, 1);
+  width: 357px;
+  height: auto;
+  position: absolute;
+  font-size: 28.883495330810547px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-rectangle16 {
+  top: 6906px;
+  left: 0px;
+  width: 430px;
+  height: 1965px;
+  position: absolute;
+  border-radius: 0 0 160px 160px;
+}
+.intervet-clnica-landing-page-mobile-rectangle19 {
+  top: 10541px;
+  left: 0px;
+  width: 430px;
+  height: 710px;
+  position: absolute;
+  border-radius: 160px 160px 0 0;
+}
+.intervet-clnica-landing-page-mobile-rectangle15 {
+  top: 6011px;
+  left: 0px;
+  width: 430px;
+  height: 1109px;
+  position: absolute;
+  border-radius: 0 0 160px 160px;
+}
+.intervet-clnica-landing-page-mobile-rectangle14 {
+  top: 6407px;
+  left: 430px;
+  width: 430px;
+  height: 810px;
+  position: absolute;
+  border-radius: 160px;
+}
+.intervet-clnica-landing-page-mobile-rectangle12 {
+  top: 3731px;
+  left: 0px;
+  width: 430px;
+  height: 1113px;
+  position: absolute;
+  border-radius: 0 0 160px 160px;
+}
+.intervet-clnica-landing-page-mobile-rectangle11 {
+  top: 1971px;
+  left: 0px;
+  width: 430px;
+  height: 2005px;
+  position: absolute;
+  border-radius: 0 0 160px 160px;
+}
+.intervet-clnica-landing-page-mobile-rectangle10 {
+  top: 501px;
+  left: 1.1368683772161603e-13px;
+  width: 430px;
+  height: 1430px;
+  position: absolute;
+  border-radius: 0 0 160px 160px;
+}
+.intervet-clnica-landing-page-mobile-rectangle7 {
+  top: 0px;
+  left: 1.1368683772161603e-13px;
+  width: 430px;
+  height: 662px;
+  position: absolute;
+  border-radius: 0 0 160px 160px;
+}
+.intervet-clnica-landing-page-mobile-maskgroup {
+  top: 0px;
+  left: 1px;
+  width: 430px;
+  height: 662px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-rectangle8 {
+  top: 0px;
+  left: 0px;
+  width: 430px;
+  height: 662px;
+  position: absolute;
+  border-radius: 0 0 160px 160px;
+}
+.intervet-clnica-landing-page-mobile-image2medicos1 {
+  top: 270px;
+  left: -17px;
+  width: 500px;
+  height: 392px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-logointervet {
+  top: 39.68165969848633px;
+  left: 35.9981689453125px;
+  width: 57.00182342529297px;
+  height: 15.638028144836426px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector008 {
+  top: 5.305298328399658px;
+  left: 15.088155746459961px;
+  width: 1px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector009 {
+  top: 12.649874687194824px;
+  left: 9.21735668182373px;
+  width: 48px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector010 {
+  top: 5.508799076080322px;
+  left: 4.019411563873291px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector011 {
+  top: 4.613693714141846px;
+  left: 12.090766906738281px;
+  width: 2px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector012 {
+  top: 8.182367324829102px;
+  left: 0px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector013 {
+  top: 5.184187412261963px;
+  left: 2.8182871341705322px;
+  width: 7px;
+  height: 6px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector014 {
+  top: 0px;
+  left: 11.6760835647583px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector015 {
+  top: 3.47693133354187px;
+  left: 15.095927238464355px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector016 {
+  top: 14.267534255981445px;
+  left: 51.103370666503906px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector017 {
+  top: 14.275328636169434px;
+  left: 39.043235778808594px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector018 {
+  top: 0.9396324157714844px;
+  left: 10.436554908752441px;
+  width: 1px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector019 {
+  top: 14.282082557678223px;
+  left: 36.18067169189453px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector020 {
+  top: 13.590614318847656px;
+  left: 40.49937057495117px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector021 {
+  top: 13.596442222595215px;
+  left: 47.34583282470703px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector022 {
+  top: 14.27209758758545px;
+  left: 44.621524810791016px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector023 {
+  top: 14.27953052520752px;
+  left: 54.197086334228516px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector024 {
+  top: 14.27998161315918px;
+  left: 49.73118591308594px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector025 {
+  top: 7.368861198425293px;
+  left: 11.292938232421875px;
+  width: 1px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector026 {
+  top: 14.284613609313965px;
+  left: 41.381324768066406px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector027 {
+  top: 4.140726089477539px;
+  left: 47.66960906982422px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector028 {
+  top: 14.285404205322266px;
+  left: 50.71254348754883px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector029 {
+  top: 14.286871910095215px;
+  left: 55.18296432495117px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector030 {
+  top: 3.73738431930542px;
+  left: 51.01237106323242px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector031 {
+  top: 5.8452935218811035px;
+  left: 10.690116882324219px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector032 {
+  top: 13.640947341918945px;
+  left: 53.239402770996094px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector033 {
+  top: 4.311357021331787px;
+  left: 9.522066116333008px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector034 {
+  top: 13.930000305175781px;
+  left: 50.72880935668945px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector035 {
+  top: 13.928531646728516px;
+  left: 55.202571868896484px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector036 {
+  top: 1.842915654182434px;
+  left: 17.117923736572266px;
+  width: 23px;
+  height: 10px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector037 {
+  top: 1.838126301765442px;
+  left: 40.230716705322266px;
+  width: 17px;
+  height: 10px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector038 {
+  top: 14.282489776611328px;
+  left: 52.65989685058594px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector039 {
+  top: 14.28124713897705px;
+  left: 48.18830108642578px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector040 {
+  top: 14.281766891479492px;
+  left: 37.51472091674805px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector041 {
+  top: 14.284432411193848px;
+  left: 45.91536331176758px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector042 {
+  top: 14.281224250793457px;
+  left: 42.300514221191406px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector043 {
+  top: 14.280750274658203px;
+  left: 55.594573974609375px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector044 {
+  top: 3.720350503921509px;
+  left: 51.29801559448242px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector045 {
+  top: 3.718001127243042px;
+  left: 52.2819938659668px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector046 {
+  top: 3.7189950942993164px;
+  left: 53.27347183227539px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector047 {
+  top: 3.746443271636963px;
+  left: 45.68141174316406px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector048 {
+  top: 3.7481377124786377px;
+  left: 48.566837310791016px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector049 {
+  top: 4.154168128967285px;
+  left: 49.55949020385742px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector050 {
+  top: 4.1516828536987305px;
+  left: 46.66457748413086px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text012 {
+  top: 109px;
+  left: 56px;
+  color: rgba(255, 255, 255, 1);
+  width: 317px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text013 {
+  color: rgba(255, 255, 255, 1);
+}
+.intervet-clnica-landing-page-mobile-text015 {
+  color: rgba(255, 255, 255, 1);
+}
+.intervet-clnica-landing-page-mobile-cta02 {
+  top: 205px;
+  left: 123px;
+  width: 183px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(239, 181, 81, 1);
+}
+.intervet-clnica-landing-page-mobile-text019 {
+  top: 11px;
+  left: 30px;
+  color: rgba(255, 255, 255, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 700;
+  line-height: 80.0000011920929%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text023 {
+  top: 694px;
+  left: 56px;
+  color: rgba(64, 46, 16, 1);
+  width: 317px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text025 {
+  top: 1969px;
+  left: 99px;
+  color: rgba(129, 179, 54, 1);
+  width: 231px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text029 {
+  top: 6438.18603515625px;
+  left: 89.2772216796875px;
+  color: rgba(255, 255, 255, 1);
+  width: 250px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text031 {
+  top: 4014.35400390625px;
+  left: 55px;
+  color: rgba(255, 255, 255, 1);
+  width: 319px;
+  height: auto;
+  position: absolute;
+  font-size: 27.98245620727539px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text032 {
+  font-weight: 800;
+}
+.intervet-clnica-landing-page-mobile-text034 {
+  top: 2057px;
+  left: 55px;
+  color: rgba(64, 46, 16, 1);
+  width: 319px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text040 {
+  top: 6473.93310546875px;
+  left: 51px;
+  color: rgba(255, 255, 255, 1);
+  width: 327px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text041 {
+  font-weight: 400;
+  text-decoration: NONE;
+}
+.intervet-clnica-landing-page-mobile-text043 {
+  top: 8916px;
+  left: 56.95458984375px;
+  color: rgba(255, 255, 255, 1);
+  width: 315px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text045 {
+  top: 9248px;
+  left: 35px;
+  color: rgba(255, 255, 255, 1);
+  width: 359px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text047 {
+  top: 11186.2431640625px;
+  left: 52.5380859375px;
+  color: rgba(255, 255, 255, 1);
+  width: 324px;
+  height: auto;
+  position: absolute;
+  font-size: 14.630093574523926px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group22 {
+  top: 9781px;
+  left: 55px;
+  width: 319px;
+  height: 175.38888549804688px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text053 {
+  color: rgba(129, 179, 54, 1);
+  width: 319px;
+  height: auto;
+  position: absolute;
+  font-size: 30.55555534362793px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text057 {
+  top: 73.33322143554688px;
+  left: 8.55555534362793px;
+  color: rgba(64, 46, 16, 1);
+  width: 302px;
+  height: auto;
+  position: absolute;
+  font-size: 15.888888359069824px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text061 {
+  top: 127.56814575195312px;
+  left: 31.78374481201172px;
+  color: rgba(129, 179, 54, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 15.888888359069824px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text062 {
+  color: rgba(129, 179, 54, 1);
+  font-weight: 800;
+}
+.intervet-clnica-landing-page-mobile-text064 {
+  color: rgba(129, 179, 54, 1);
+  font-weight: 800;
+}
+.intervet-clnica-landing-page-mobile-text068 {
+  top: 4919px;
+  left: 25px;
+  color: rgba(129, 179, 54, 1);
+  width: 381px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text069 {
+  font-weight: 800;
+}
+.intervet-clnica-landing-page-mobile-text071 {
+  font-weight: 800;
+}
+.intervet-clnica-landing-page-mobile-text073 {
+  font-weight: 800;
+}
+.intervet-clnica-landing-page-mobile-text074 {
+  color: rgba(129, 179, 54, 1);
+}
+.intervet-clnica-landing-page-mobile-text076 {
+  color: rgba(129, 179, 54, 1);
+}
+.intervet-clnica-landing-page-mobile-text080 {
+  top: 5669px;
+  left: 62px;
+  color: rgba(255, 255, 255, 1);
+  width: 307px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text081 {
+  font-weight: 800;
+}
+.intervet-clnica-landing-page-mobile-text083 {
+  font-weight: 800;
+}
+.intervet-clnica-landing-page-mobile-text087 {
+  top: 7153px;
+  left: 37px;
+  color: rgba(255, 255, 255, 1);
+  width: 357px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group3 {
+  top: 1610px;
+  left: 88px;
+  width: 253px;
+  height: 224.73184204101562px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-cta03 {
+  top: 90.45814514160156px;
+  left: 21.20111656188965px;
+  width: 210.59776306152344px;
+  height: 59.363128662109375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.intervet-clnica-landing-page-mobile-group11 {
+  top: 12.720685958862305px;
+  left: 25.441286087036133px;
+  width: 157.83238220214844px;
+  height: 34.41339111328125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-icontel1 {
+  top: 0px;
+  left: 0px;
+  width: 33.90065383911133px;
+  height: 33.92178726196289px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector051 {
+  top: 5.951582431793213px;
+  left: 0.0000020458710423554294px;
+  width: 29px;
+  height: 28px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector052 {
+  top: 7.451775550842285px;
+  left: 21.916967391967773px;
+  width: 7px;
+  height: 6px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector053 {
+  top: 3.6076927185058594px;
+  left: 25.57402229309082px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector054 {
+  top: 6.3734307289123535px;
+  left: 19.338947296142578px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector055 {
+  top: 6.3734307289123535px;
+  left: 28.483482360839844px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector056 {
+  top: 3.6076927185058594px;
+  left: 22.248062133789062px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector057 {
+  top: -0.000017048925656126812px;
+  left: 16.72521209716797px;
+  width: 17px;
+  height: 20px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text093 {
+  top: 1.4133907556533813px;
+  left: 43.83238220214844px;
+  color: rgba(241, 104, 58, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14.134078025817871px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text094 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text096 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-cta04 {
+  top: 165.36875915527344px;
+  left: 0px;
+  width: 253px;
+  height: 59.363128662109375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-group21 {
+  top: 12.720656394958496px;
+  left: 25.441341400146484px;
+  width: 200.925048828125px;
+  height: 34.413360595703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text098 {
+  top: 1.4133607149124146px;
+  left: 40.925045013427734px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14.134078025817871px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text099 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text101 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-vector058 {
+  top: 0px;
+  left: 0px;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text103 {
+  color: rgba(64, 46, 16, 1);
+  width: 253px;
+  height: auto;
+  position: absolute;
+  font-size: 35.3351936340332px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group12 {
+  top: 4597px;
+  left: 57px;
+  width: 317px;
+  height: 200.47430419921875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-cta05 {
+  top: 81.44284057617188px;
+  left: 65.1541519165039px;
+  width: 186.6916961669922px;
+  height: 52.62450408935547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.intervet-clnica-landing-page-mobile-group12 {
+  top: 11.276646614074707px;
+  left: 22.553335189819336px;
+  width: 139.85671997070312px;
+  height: 30.252756118774414px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-icontel2 {
+  top: 0px;
+  left: 0px;
+  width: 30.052412033081055px;
+  height: 30.07114601135254px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector059 {
+  top: 5.275946617126465px;
+  left: -0.00000964982700679684px;
+  width: 26px;
+  height: 25px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector060 {
+  top: 6.605997562408447px;
+  left: 19.429044723510742px;
+  width: 6px;
+  height: 5px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector061 {
+  top: 3.198276996612549px;
+  left: 22.670969009399414px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector062 {
+  top: 5.649755477905273px;
+  left: 17.14366912841797px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector063 {
+  top: 5.649755477905273px;
+  left: 25.250160217285156px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector064 {
+  top: 3.198276996612549px;
+  left: 19.72255516052246px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector065 {
+  top: -0.00020843626407440752px;
+  left: 14.826634407043457px;
+  width: 15px;
+  height: 18px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text107 {
+  top: 1.2527559995651245px;
+  left: 38.85672378540039px;
+  color: rgba(68, 170, 75, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12.529644012451172px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text108 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text110 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-cta06 {
+  top: 147.84996032714844px;
+  left: 46.359683990478516px;
+  width: 224.2806396484375px;
+  height: 52.62450408935547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-group22 {
+  top: 11.276535034179688px;
+  left: 22.553302764892578px;
+  width: 178.27932739257812px;
+  height: 30.253131866455078px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text112 {
+  top: 1.2531323432922363px;
+  left: 36.279335021972656px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12.529644012451172px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text113 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text115 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-vector066 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text117 {
+  color: rgba(255, 255, 255, 1);
+  width: 317px;
+  height: auto;
+  position: absolute;
+  font-size: 31.32411003112793px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group16 {
+  top: 6838.18603515625px;
+  left: 93px;
+  width: 245px;
+  height: 219.3974151611328px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-cta07 {
+  top: 89.36925506591797px;
+  left: 20.530725479125977px;
+  width: 203.9385528564453px;
+  height: 57.48603439331055px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.intervet-clnica-landing-page-mobile-group13 {
+  top: 12.31855297088623px;
+  left: 24.6368350982666px;
+  width: 153.4463653564453px;
+  height: 33.3689079284668px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-icontel3 {
+  top: 0px;
+  left: 0px;
+  width: 32.828697204589844px;
+  height: 32.84916305541992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector067 {
+  top: 5.763767242431641px;
+  left: -0.000004773699401994236px;
+  width: 28px;
+  height: 27px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector068 {
+  top: 7.216690540313721px;
+  left: 21.223934173583984px;
+  width: 7px;
+  height: 5px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector069 {
+  top: 3.494159698486328px;
+  left: 24.765350341796875px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector070 {
+  top: 6.172109603881836px;
+  left: 18.727432250976562px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector071 {
+  top: 6.172109603881836px;
+  left: 27.58281135559082px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector072 {
+  top: 3.494159698486328px;
+  left: 21.544559478759766px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector073 {
+  top: 0.00019367580534890294px;
+  left: 16.196346282958984px;
+  width: 17px;
+  height: 20px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text121 {
+  top: 1.3689087629318237px;
+  left: 42.44636917114258px;
+  color: rgba(68, 170, 75, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.687150955200195px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text122 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text124 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-cta08 {
+  top: 161.91116333007812px;
+  left: 0px;
+  width: 245px;
+  height: 57.48603439331055px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-group23 {
+  top: 12.318460464477539px;
+  left: 24.636871337890625px;
+  width: 194.63095092773438px;
+  height: 33.36881637573242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text126 {
+  top: 1.3688160181045532px;
+  left: 39.63094711303711px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.687150955200195px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text127 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text129 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-vector074 {
+  top: 0px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text131 {
+  color: rgba(255, 255, 255, 1);
+  width: 245px;
+  height: auto;
+  position: absolute;
+  font-size: 34.21787643432617px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group11 {
+  top: 3609px;
+  left: 71px;
+  width: 267px;
+  height: 237.1676025390625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-cta09 {
+  top: 95.46387481689453px;
+  left: 22.37430191040039px;
+  width: 222.25140380859375px;
+  height: 62.64804458618164px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(241, 104, 58, 1);
+}
+.intervet-clnica-landing-page-mobile-group14 {
+  top: 13.424586296081543px;
+  left: 26.84919548034668px;
+  width: 166.25784301757812px;
+  height: 35.79888153076172px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-icontel4 {
+  top: 0px;
+  left: 0px;
+  width: 35.776580810546875px;
+  height: 35.79888153076172px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector075 {
+  top: 6.281145095825195px;
+  left: -0.00004705503670265898px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector076 {
+  top: 7.864170551300049px;
+  left: 23.129714965820312px;
+  width: 7px;
+  height: 6px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector077 {
+  top: 3.8073716163635254px;
+  left: 26.9891357421875px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector078 {
+  top: 6.726154804229736px;
+  left: 20.409038543701172px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector079 {
+  top: 6.726154804229736px;
+  left: 30.059595108032227px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector080 {
+  top: 3.8073716163635254px;
+  left: 23.4791316986084px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector081 {
+  top: 0.00002591436896182131px;
+  left: 17.65066909790039px;
+  width: 18px;
+  height: 22px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text135 {
+  top: 1.4916460514068604px;
+  left: 46.25783920288086px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14.916200637817383px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text136 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text138 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-cta10 {
+  top: 174.51974487304688px;
+  left: 2.2737367544323206e-13px;
+  width: 267px;
+  height: 62.64804458618164px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(129, 179, 54, 1);
+}
+.intervet-clnica-landing-page-mobile-group24 {
+  top: 13.424544334411621px;
+  left: 26.84916114807129px;
+  width: 212.1896514892578px;
+  height: 35.79888153076172px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text140 {
+  top: 1.4916037321090698px;
+  left: 43.18965530395508px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14.916200637817383px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text141 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text143 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-vector082 {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text145 {
+  color: rgba(129, 179, 54, 1);
+  width: 267px;
+  height: auto;
+  position: absolute;
+  font-size: 37.29050064086914px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group13 {
+  top: 5341px;
+  left: 93px;
+  width: 245px;
+  height: 217.62570190429688px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-cta11 {
+  top: 87.59790802001953px;
+  left: 20.530725479125977px;
+  width: 203.9385528564453px;
+  height: 57.48603439331055px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(241, 104, 58, 1);
+}
+.intervet-clnica-landing-page-mobile-group15 {
+  top: 12.318195343017578px;
+  left: 24.6368350982666px;
+  width: 153.4463653564453px;
+  height: 33.368553161621094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-icontel5 {
+  top: 0px;
+  left: 0px;
+  width: 32.828697204589844px;
+  height: 32.84916305541992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector083 {
+  top: 5.7634100914001465px;
+  left: -0.000004773699401994236px;
+  width: 28px;
+  height: 27px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector084 {
+  top: 7.216332912445068px;
+  left: 21.223934173583984px;
+  width: 7px;
+  height: 5px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector085 {
+  top: 3.493802309036255px;
+  left: 24.765350341796875px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector086 {
+  top: 6.171752452850342px;
+  left: 18.727432250976562px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector087 {
+  top: 6.171752452850342px;
+  left: 27.58281135559082px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector088 {
+  top: 3.493802309036255px;
+  left: 21.544559478759766px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector089 {
+  top: -0.00016366969794034958px;
+  left: 16.196346282958984px;
+  width: 17px;
+  height: 20px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text149 {
+  top: 1.3685513734817505px;
+  left: 42.44636917114258px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.687150955200195px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text150 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text152 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-cta12 {
+  top: 160.13980102539062px;
+  left: 0px;
+  width: 245px;
+  height: 57.48603439331055px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(129, 179, 54, 1);
+}
+.intervet-clnica-landing-page-mobile-group25 {
+  top: 12.318591117858887px;
+  left: 24.636871337890625px;
+  width: 194.63095092773438px;
+  height: 33.36894607543945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text154 {
+  top: 1.36894690990448px;
+  left: 39.63094711303711px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.687150955200195px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text155 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text157 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-vector090 {
+  top: 0px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text159 {
+  color: rgba(129, 179, 54, 1);
+  width: 245px;
+  height: auto;
+  position: absolute;
+  font-size: 34.21787643432617px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-veterinrios {
+  top: 773px;
+  left: 36px;
+  width: 166px;
+  height: 165px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text165 {
+  top: 76px;
+  color: rgba(63, 46, 16, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text167 {
+  top: 120px;
+  color: rgba(63, 46, 16, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-iconveterinrios {
+  top: 0px;
+  left: 53px;
+  width: 61.99402618408203px;
+  height: 61.762001037597656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector091 {
+  top: 52.83300018310547px;
+  left: 31.645999908447266px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector092 {
+  top: 52.83300018310547px;
+  left: 9.654000282287598px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector093 {
+  top: 17.683773040771484px;
+  left: 25.502155303955078px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector094 {
+  top: 17.683773040771484px;
+  left: 15.790155410766602px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector095 {
+  top: 0px;
+  left: 0px;
+  width: 62px;
+  height: 62px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector096 {
+  top: 36.58399963378906px;
+  left: 51.1349983215332px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector097 {
+  top: 36.58399963378906px;
+  left: 44.05099868774414px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pets-salvos {
+  top: 965px;
+  left: 36px;
+  width: 166px;
+  height: 139px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text169 {
+  top: 70px;
+  color: rgba(63, 46, 16, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text173 {
+  top: 114px;
+  left: 8px;
+  color: rgba(63, 46, 16, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-icondogsalvo {
+  top: 0px;
+  left: 54px;
+  width: 58.00660705566406px;
+  height: 56.44725036621094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector098 {
+  top: 8.661479949951172px;
+  left: 0px;
+  width: 28px;
+  height: 48px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector099 {
+  top: 8.637126922607422px;
+  left: 30.263425827026367px;
+  width: 28px;
+  height: 48px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector100 {
+  top: 0px;
+  left: 14.208784103393555px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector101 {
+  top: 10.590574264526367px;
+  left: 30.770586013793945px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector102 {
+  top: 10.592567443847656px;
+  left: 20.8783016204834px;
+  width: 6px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-cta13 {
+  top: 5884px;
+  left: 126px;
+  width: 179px;
+  height: 50.45637512207031px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(239, 181, 81, 1);
+}
+.intervet-clnica-landing-page-mobile-group16 {
+  top: 10.811920166015625px;
+  left: 21.624160766601562px;
+  width: 134.255859375px;
+  height: 29.201250076293945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-icontel6 {
+  top: 0px;
+  left: 0px;
+  width: 28.814252853393555px;
+  height: 28.83221435546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector103 {
+  top: 5.058685302734375px;
+  left: 0.000015566012734780088px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector104 {
+  top: 6.3339385986328125px;
+  left: 18.62859344482422px;
+  width: 6px;
+  height: 5px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector105 {
+  top: 3.0666160583496094px;
+  left: 21.736875534057617px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector106 {
+  top: 5.417093753814697px;
+  left: 16.43733787536621px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector107 {
+  top: 5.417093753814697px;
+  left: 24.209951400756836px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector108 {
+  top: 3.0666160583496094px;
+  left: 18.90993881225586px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector109 {
+  top: -0.00009175755258183926px;
+  left: 14.215874671936035px;
+  width: 15px;
+  height: 17px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text175 {
+  top: 1.2012505531311035px;
+  left: 37.25585174560547px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12.013422012329102px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text176 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text178 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-estrutura {
+  top: 1166.85205078125px;
+  left: 36px;
+  width: 166px;
+  height: 157.14794921875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text180 {
+  top: 74.14794921875px;
+  color: rgba(63, 46, 16, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text184 {
+  top: 118.14794921875px;
+  left: 8px;
+  color: rgba(63, 46, 16, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-iconestrutura {
+  top: 0px;
+  left: 52px;
+  width: 62.000999450683594px;
+  height: 60.295997619628906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector110 {
+  top: 42.83599853515625px;
+  left: 24.077999114990234px;
+  width: 14px;
+  height: 11px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector111 {
+  top: 35.3849983215332px;
+  left: 31.424999237060547px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector112 {
+  top: 40.42899703979492px;
+  left: 20.05299949645996px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector113 {
+  top: 40.42899703979492px;
+  left: 36.731998443603516px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector114 {
+  top: 35.3849983215332px;
+  left: 25.361000061035156px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector115 {
+  top: 11.51099967956543px;
+  left: 23.65399932861328px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector116 {
+  top: 0px;
+  left: 0px;
+  width: 62px;
+  height: 60px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector117 {
+  top: 33.19499969482422px;
+  left: 52.56999969482422px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector118 {
+  top: 33.19499969482422px;
+  left: 47.70100021362305px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector119 {
+  top: 38.064998626708984px;
+  left: 52.56999969482422px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector120 {
+  top: 38.064998626708984px;
+  left: 47.70100021362305px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector121 {
+  top: 42.930999755859375px;
+  left: 52.56999969482422px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector122 {
+  top: 42.930999755859375px;
+  left: 47.70100021362305px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector123 {
+  top: 47.79999923706055px;
+  left: 52.56999969482422px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector124 {
+  top: 47.79999923706055px;
+  left: 47.70100021362305px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector125 {
+  top: 33.19499969482422px;
+  left: 10.803000450134277px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector126 {
+  top: 33.19499969482422px;
+  left: 5.938000202178955px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector127 {
+  top: 38.064998626708984px;
+  left: 10.803000450134277px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector128 {
+  top: 38.064998626708984px;
+  left: 5.938000202178955px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector129 {
+  top: 42.930999755859375px;
+  left: 10.803000450134277px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector130 {
+  top: 42.930999755859375px;
+  left: 5.938000202178955px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector131 {
+  top: 47.79999923706055px;
+  left: 10.803000450134277px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector132 {
+  top: 47.79999923706055px;
+  left: 5.938000202178955px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-cashback {
+  top: 1379px;
+  left: 36px;
+  width: 166px;
+  height: 137px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text190 {
+  top: 68px;
+  color: rgba(63, 46, 16, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text192 {
+  top: 98px;
+  left: 8px;
+  color: rgba(63, 46, 16, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-iconcashback {
+  top: 0px;
+  left: 53.36365509033203px;
+  width: 58.909358978271484px;
+  height: 54px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector133 {
+  top: 13.524506568908691px;
+  left: 24.304426193237305px;
+  width: 15px;
+  height: 27px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector134 {
+  top: 0px;
+  left: 0px;
+  width: 59px;
+  height: 54px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-experincia {
+  top: 781px;
+  left: 228px;
+  width: 166px;
+  height: 151px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text194 {
+  top: 68px;
+  color: rgba(63, 46, 16, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text196 {
+  top: 112px;
+  left: 8px;
+  color: rgba(63, 46, 16, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-iconexperincia {
+  top: 0px;
+  left: 52px;
+  width: 61.998924255371094px;
+  height: 54.336002349853516px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector135 {
+  top: 28.643999099731445px;
+  left: 0px;
+  width: 62px;
+  height: 26px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector136 {
+  top: 14.451000213623047px;
+  left: 11.623923301696777px;
+  width: 14px;
+  height: 12px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector137 {
+  top: 6.457000255584717px;
+  left: 19.227924346923828px;
+  width: 6px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector138 {
+  top: 12.205999374389648px;
+  left: 6.261923789978027px;
+  width: 6px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector139 {
+  top: 12.205999374389648px;
+  left: 25.281925201416016px;
+  width: 6px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector140 {
+  top: 6.457000255584717px;
+  left: 12.315922737121582px;
+  width: 6px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector141 {
+  top: 0px;
+  left: 2.339923858642578px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-emergncia {
+  top: 969px;
+  left: 228px;
+  width: 166px;
+  height: 144px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text198 {
+  top: 66px;
+  color: rgba(63, 46, 16, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text200 {
+  top: 92px;
+  left: 5px;
+  color: rgba(63, 46, 16, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-iconemergncia {
+  top: 0px;
+  left: 52px;
+  width: 62.000999450683594px;
+  height: 52.97099685668945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector142 {
+  top: 42.68199920654297px;
+  left: 10.666000366210938px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector143 {
+  top: 42.68199920654297px;
+  left: 43.224998474121094px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector144 {
+  top: 4.551000118255615px;
+  left: 0px;
+  width: 62px;
+  height: 48px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector145 {
+  top: 32.34000015258789px;
+  left: 42.400001525878906px;
+  width: 5px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector146 {
+  top: 24.387001037597656px;
+  left: 13.126999855041504px;
+  width: 14px;
+  height: 11px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector147 {
+  top: 16.998001098632812px;
+  left: 20.416000366210938px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector148 {
+  top: 21.998001098632812px;
+  left: 9.133999824523926px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector149 {
+  top: 21.998001098632812px;
+  left: 25.68000030517578px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector150 {
+  top: 16.998001098632812px;
+  left: 14.399999618530273px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector151 {
+  top: 0px;
+  left: 39.18000030517578px;
+  width: 2px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector152 {
+  top: 3.9041218757629395px;
+  left: 31.975971221923828px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector153 {
+  top: 3.905121326446533px;
+  left: 45.07597351074219px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-cuidado {
+  top: 1167px;
+  left: 228px;
+  width: 166px;
+  height: 157px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text202 {
+  top: 74px;
+  color: rgba(63, 46, 16, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text204 {
+  top: 105px;
+  color: rgba(63, 46, 16, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-iconcuidado {
+  top: 0px;
+  left: 53px;
+  width: 59.99806594848633px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector154 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector155 {
+  top: 28.364526748657227px;
+  left: 23.819997787475586px;
+  width: 12px;
+  height: 10px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector156 {
+  top: 21.33383560180664px;
+  left: 30.507095336914062px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector157 {
+  top: 26.39126968383789px;
+  left: 19.10419273376465px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector158 {
+  top: 26.39126968383789px;
+  left: 35.82775115966797px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector159 {
+  top: 21.33383560180664px;
+  left: 24.426767349243164px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector160 {
+  top: 15.655144691467285px;
+  left: 15.65419864654541px;
+  width: 29px;
+  height: 29px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-localizao {
+  top: 1379px;
+  left: 228px;
+  width: 166px;
+  height: 137px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text206 {
+  top: 68px;
+  color: rgba(63, 46, 16, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text208 {
+  top: 112px;
+  left: 8px;
+  color: rgba(63, 46, 16, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-iconlocalizao {
+  top: 0px;
+  left: 67px;
+  width: 32.02374267578125px;
+  height: 54px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector161 {
+  top: 14.509453773498535px;
+  left: 9.422127723693848px;
+  width: 13px;
+  height: 11px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector162 {
+  top: 7.255181789398193px;
+  left: 16.57538604736328px;
+  width: 5px;
+  height: 6px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector163 {
+  top: 12.163910865783691px;
+  left: 5.5053863525390625px;
+  width: 5px;
+  height: 6px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector164 {
+  top: 12.163115501403809px;
+  left: 21.739356994628906px;
+  width: 5px;
+  height: 6px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector165 {
+  top: 7.255181789398193px;
+  left: 10.670222282409668px;
+  width: 5px;
+  height: 6px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector166 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 54px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group21 {
+  top: 2228px;
+  left: 21px;
+  width: 388px;
+  height: 1336.323974609375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-group4 {
+  top: 0px;
+  left: 0px;
+  width: 388px;
+  height: 198.33518981933594px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-maskgroup01 {
+  top: 0px;
+  left: 0px;
+  width: 183.16201782226562px;
+  height: 198.33518981933594px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.intervet-clnica-landing-page-mobile-consultas1 {
+  top: -9.7540922164917px;
+  left: -39.01675796508789px;
+  width: 329px;
+  height: 219px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group7 {
+  top: 5.419092655181885px;
+  left: 204.83798217773438px;
+  width: 183.16201782226562px;
+  height: 187.49720764160156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text210 {
+  top: 0.00002523240982554853px;
+  left: 33.597740173339844px;
+  color: rgba(129, 179, 54, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 15.173184394836426px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text212 {
+  top: 48.770973205566406px;
+  left: -0.00002386849700997118px;
+  color: rgba(64, 46, 16, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 13.005586624145508px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text214 {
+  top: 152.815673828125px;
+  left: -0.00002386849700997118px;
+  color: rgba(255, 74, 74, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 10.83798885345459px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group {
+  top: 13.580394744873047px;
+  left: 208.08938598632812px;
+  width: 20.592201232910156px;
+  height: 20.480911254882812px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector167 {
+  top: 5.546878337860107px;
+  left: 15.444164276123047px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector168 {
+  top: 5.546878337860107px;
+  left: 0.00003000611104653217px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector169 {
+  top: -0.00004978286597179249px;
+  left: 4.168924808502197px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector170 {
+  top: 9.387008666992188px;
+  left: 3.4320156574249268px;
+  width: 14px;
+  height: 11px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector171 {
+  top: 0.00008251680264947936px;
+  left: 10.835505485534668px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group1 {
+  top: 269.86602783203125px;
+  left: 0px;
+  width: 20.592201232910156px;
+  height: 20.480911254882812px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector172 {
+  top: 5.546981334686279px;
+  left: 15.444133758544922px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector173 {
+  top: 5.546981334686279px;
+  left: 0px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector174 {
+  top: 0.00005319264892023057px;
+  left: 4.1688947677612305px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector175 {
+  top: 9.38711166381836px;
+  left: 3.43198561668396px;
+  width: 14px;
+  height: 11px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector176 {
+  top: 0.00018549231754150242px;
+  left: 10.835474967956543px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group2 {
+  top: 511.55316162109375px;
+  left: 204.83798217773438px;
+  width: 20.592201232910156px;
+  height: 20.480911254882812px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector177 {
+  top: 5.547008514404297px;
+  left: 15.444109916687012px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector178 {
+  top: 5.547008514404297px;
+  left: -0.00002386849700997118px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector179 {
+  top: -0.00005182873428566381px;
+  left: 4.16887092590332px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector180 {
+  top: 9.387138366699219px;
+  left: 3.43196177482605px;
+  width: 14px;
+  height: 11px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector181 {
+  top: -0.00005182873428566381px;
+  left: 10.835451126098633px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group3 {
+  top: 739.1509399414062px;
+  left: 0px;
+  width: 20.592201232910156px;
+  height: 20.480911254882812px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector182 {
+  top: 5.547117710113525px;
+  left: 15.444133758544922px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector183 {
+  top: 5.547117710113525px;
+  left: 0px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector184 {
+  top: 0.00005728439282393083px;
+  left: 4.1688947677612305px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector185 {
+  top: 9.387248039245605px;
+  left: 3.43198561668396px;
+  width: 14px;
+  height: 11px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector186 {
+  top: 0.00005728439282393083px;
+  left: 10.835474967956543px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group4 {
+  top: 960.2459106445312px;
+  left: 204.83798217773438px;
+  width: 20.592201232910156px;
+  height: 20.480911254882812px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector187 {
+  top: 5.547119140625px;
+  left: 15.444109916687012px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector188 {
+  top: 5.547119140625px;
+  left: -0.00002386849700997118px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector189 {
+  top: 0.000058648307458497584px;
+  left: 4.16887092590332px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector190 {
+  top: 9.387248992919922px;
+  left: 3.43196177482605px;
+  width: 14px;
+  height: 11px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector191 {
+  top: 0.000058648307458497584px;
+  left: 10.835451126098633px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group5 {
+  top: 1194.346435546875px;
+  left: 0px;
+  width: 20.592201232910156px;
+  height: 20.480911254882812px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector192 {
+  top: 5.547091960906982px;
+  left: 15.444133758544922px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector193 {
+  top: 5.547091960906982px;
+  left: 0px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector194 {
+  top: 0.00003137002568109892px;
+  left: 4.1688947677612305px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector195 {
+  top: 9.387222290039062px;
+  left: 3.43198561668396px;
+  width: 14px;
+  height: 11px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector196 {
+  top: 0.00003137002568109892px;
+  left: 10.835474967956543px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group6 {
+  top: 455.19561767578125px;
+  left: 0px;
+  width: 388px;
+  height: 198.33518981933594px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-maskgroup02 {
+  top: 0px;
+  left: 0px;
+  width: 183.16201782226562px;
+  height: 198.33518981933594px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.intervet-clnica-landing-page-mobile-consultas11 {
+  top: 0.00007228744652820751px;
+  left: -58.52513885498047px;
+  width: 329px;
+  height: 219px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group71 {
+  top: 48.77102279663086px;
+  left: 204.83798217773438px;
+  width: 183.16201782226562px;
+  height: 101.8770980834961px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text216 {
+  top: 0.000025914367142831907px;
+  left: 28.178747177124023px;
+  color: rgba(129, 179, 54, 1);
+  width: 155px;
+  height: auto;
+  position: absolute;
+  font-size: 15.173184394836426px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text220 {
+  top: 48.77097702026367px;
+  left: -0.00002386849700997118px;
+  color: rgba(64, 46, 16, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 13.005586624145508px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group8 {
+  top: 910.3911743164062px;
+  left: 0px;
+  width: 388px;
+  height: 198.33518981933594px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-maskgroup03 {
+  top: 0px;
+  left: 0px;
+  width: 183.16201782226562px;
+  height: 198.33518981933594px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.intervet-clnica-landing-page-mobile-consultas12 {
+  top: -0.7522095441818237px;
+  left: -39.01675796508789px;
+  width: 302px;
+  height: 201px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group72 {
+  top: 42.26820373535156px;
+  left: 204.83798217773438px;
+  width: 183.16201782226562px;
+  height: 114.88268280029297px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text222 {
+  top: -0.00010774921247502789px;
+  left: 28.178747177124023px;
+  color: rgba(129, 179, 54, 1);
+  width: 155px;
+  height: auto;
+  position: absolute;
+  font-size: 15.173184394836426px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text224 {
+  top: 48.770843505859375px;
+  left: -0.00002386849700997118px;
+  color: rgba(64, 46, 16, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 13.005586624145508px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group5 {
+  top: 227.59786987304688px;
+  left: 0px;
+  width: 388px;
+  height: 198.33518981933594px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-maskgroup04 {
+  top: -0.00003682568058138713px;
+  left: 204.83798217773438px;
+  width: 183.16201782226562px;
+  height: 198.33518981933594px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.intervet-clnica-landing-page-mobile-closeupveterinarydoctortakingcarepet1 {
+  top: -57.95046615600586px;
+  left: -4.335219383239746px;
+  width: 192px;
+  height: 288px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group61 {
+  top: 34.68152618408203px;
+  left: 0px;
+  width: 183.16201782226562px;
+  height: 130.0558624267578px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text226 {
+  top: 0.000008865441486705095px;
+  left: 28.178770065307617px;
+  color: rgba(129, 179, 54, 1);
+  width: 155px;
+  height: auto;
+  position: absolute;
+  font-size: 15.173184394836426px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text230 {
+  top: 48.770957946777344px;
+  color: rgba(64, 46, 16, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 13.005586624145508px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group73 {
+  top: 682.7933959960938px;
+  left: 0px;
+  width: 388px;
+  height: 198.33518981933594px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-maskgroup05 {
+  top: -0.00006274005136219785px;
+  left: 204.83798217773438px;
+  width: 183.16201782226562px;
+  height: 198.33518981933594px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.intervet-clnica-landing-page-mobile-consultas13 {
+  top: -9.754252433776855px;
+  left: -39.01678466796875px;
+  width: 329px;
+  height: 219px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group62 {
+  top: 48.7708854675293px;
+  left: 0px;
+  width: 183.16201782226562px;
+  height: 101.8770980834961px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text232 {
+  top: -0.00010911312710959464px;
+  left: 28.178770065307617px;
+  color: rgba(129, 179, 54, 1);
+  width: 155px;
+  height: auto;
+  position: absolute;
+  font-size: 15.173184394836426px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text236 {
+  top: 48.77083969116211px;
+  color: rgba(157, 157, 157, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 13.005586624145508px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group9 {
+  top: 682.7933959960938px;
+  left: 0px;
+  width: 388px;
+  height: 198.33518981933594px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-maskgroup06 {
+  top: -0.00006274005136219785px;
+  left: 204.83798217773438px;
+  width: 183.16201782226562px;
+  height: 198.33518981933594px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.intervet-clnica-landing-page-mobile-consultas14 {
+  top: -0.00006274005136219785px;
+  left: -98.03553009033203px;
+  width: 300px;
+  height: 199px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group63 {
+  top: 97.54183959960938px;
+  left: 0px;
+  width: 183.16201782226562px;
+  height: 53.106143951416016px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text238 {
+  color: rgba(64, 46, 16, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 13.005586624145508px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group10 {
+  top: 1137.9888916015625px;
+  left: 0px;
+  width: 388px;
+  height: 198.33518981933594px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-maskgroup07 {
+  top: 0.00015548621013294905px;
+  left: 204.83798217773438px;
+  width: 183.16201782226562px;
+  height: 198.33518981933594px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.intervet-clnica-landing-page-mobile-consultas15 {
+  top: -69.36322021484375px;
+  left: -161.48605346679688px;
+  width: 419px;
+  height: 279px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group64 {
+  top: 48.7711067199707px;
+  left: 0px;
+  width: 183.16201782226562px;
+  height: 101.8770980834961px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text240 {
+  top: 0.00010911312710959464px;
+  left: 28.178770065307617px;
+  color: rgba(129, 179, 54, 1);
+  width: 155px;
+  height: auto;
+  position: absolute;
+  font-size: 15.173184394836426px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text244 {
+  top: 48.77105712890625px;
+  color: rgba(64, 46, 16, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 13.005586624145508px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group14 {
+  top: 5093px;
+  left: 36px;
+  width: 358px;
+  height: 223px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-maskgroup08 {
+  top: 0px;
+  left: 0px;
+  width: 358px;
+  height: 223px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(0, 0, 0, 1);
+}
+.intervet-clnica-landing-page-mobile-rectangle151 {
+  top: 0px;
+  left: 0px;
+  width: 358px;
+  height: 223px;
+  position: absolute;
+  border-radius: 54px;
+}
+.intervet-clnica-landing-page-mobile-mediumshotsmileydoctorcheckingdog1 {
+  top: -18px;
+  left: -28px;
+  width: 414px;
+  height: 276px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector197 {
+  top: 81px;
+  left: 149px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-group15 {
+  top: 5943px;
+  left: 27.6787109375px;
+  width: 383.87640380859375px;
+  height: 368.1714782714844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse1 {
+  top: 33.1708984375px;
+  left: 20.32122802734375px;
+  width: 335px;
+  height: 335px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-maskgroup09 {
+  top: 0px;
+  left: 0px;
+  width: 383.87640380859375px;
+  height: 368.1714782714844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-dogcat1 {
+  top: 27.1708984375px;
+  left: -0.67877197265625px;
+  width: 378px;
+  height: 341px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-frame1 {
+  gap: 12px;
+  top: 7265.58203125px;
+  left: 32.95458984375px;
+  width: 364px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.intervet-clnica-landing-page-mobile-pergunta1 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text246 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse4 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector2 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta2 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon01 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text248 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button01 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse401 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector201 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta3 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon02 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text250 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button02 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse402 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector202 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta4 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon03 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text254 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button03 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse403 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector203 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta5 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon04 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text256 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button04 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse404 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector204 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta6 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon05 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text260 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button05 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse405 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector205 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta7 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon06 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text264 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button06 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse406 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector206 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta8 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon07 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text268 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 14px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button07 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse407 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector207 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta9 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon08 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text270 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button08 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse408 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector208 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta10 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon09 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text274 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button09 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse409 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector209 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta11 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon10 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text276 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button10 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse410 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector210 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta12 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon11 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text280 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button11 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse411 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector211 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta13 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon12 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text282 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button12 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse412 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector212 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta14 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon13 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text286 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button13 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse413 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector213 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta15 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon14 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text290 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button14 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse414 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector214 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-pergunta16 {
+  gap: 25px;
+  display: flex;
+  padding: 25px;
+  align-items: flex-start;
+  border-radius: 25px;
+  flex-direction: column;
+  background-color: rgba(68, 170, 75, 1);
+}
+.intervet-clnica-landing-page-mobile-headlineandicon15 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-text292 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-button15 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse415 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector215 {
+  top: 11.349521636962892px;
+  left: 7.6753082275390625px;
+  width: 15px;
+  height: 7px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-maskgroup10 {
+  top: 8998px;
+  left: 36px;
+  width: 361.04541015625px;
+  height: 213.66015625px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.intervet-clnica-landing-page-mobile-image921b64cdeeb3704e093f9873c82c01571 {
+  top: -21.677734375px;
+  left: -43.8580322265625px;
+  width: 405px;
+  height: 237px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-maps-full-map {
+  top: 9987px;
+  left: 35px;
+  width: 359px;
+  height: 270px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.intervet-clnica-landing-page-mobile-maps-zoom-levels2-city {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 270px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.intervet-clnica-landing-page-mobile-mapof-birmingham-city {
+  top: -214px;
+  left: -348px;
+  width: 1056px;
+  height: 699px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-controls-google-maps-byline {
+  top: 255px;
+  left: 72px;
+  width: 287px;
+  height: 15px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 121px;
+  height: 15px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text294 {
+  top: 3px;
+  left: 5px;
+  color: rgba(0, 0, 0, 0.800000011920929);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-rectangle31 {
+  top: 0px;
+  left: 122px;
+  width: 70px;
+  height: 15px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text296 {
+  top: 3px;
+  left: 127px;
+  color: rgba(0, 0, 0, 0.800000011920929);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-rectangle32 {
+  top: 0px;
+  left: 193px;
+  width: 94px;
+  height: 15px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text298 {
+  top: 3px;
+  left: 198px;
+  color: rgba(0, 0, 0, 0.800000011920929);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-controls-google-logo-color {
+  top: 244px;
+  left: 5px;
+  width: 66px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-google-logo {
+  top: 3.327850341796875px;
+  left: 1.9999953508377075px;
+  width: 61.60325622558594px;
+  height: 19.672130584716797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector198 {
+  top: 5.4366455078125px;
+  left: 15.7744140625px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector199 {
+  top: 5.4366455078125px;
+  left: 26.75px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector200 {
+  top: 5.4366455078125px;
+  left: 37.5px;
+  width: 9px;
+  height: 14px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector201 {
+  top: 0.56072998046875px;
+  left: 48.8699951171875px;
+  width: 2px;
+  height: 14px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector202 {
+  top: 5.4344482421875px;
+  left: 52.5px;
+  width: 9px;
+  height: 10px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector203 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-controls {
+  top: 8px;
+  left: 323px;
+  width: 28px;
+  height: 89px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-controls-street-view {
+  top: 61px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  border-radius: 2px;
+}
+.intervet-clnica-landing-page-mobile-pegmanoffscreen2x {
+  top: 4px;
+  left: 8px;
+  width: 12px;
+  height: 20px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-controls-zoom-controls {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 53px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 53px;
+  position: absolute;
+  border-radius: 2px;
+}
+.intervet-clnica-landing-page-mobile-union {
+  top: 8px;
+  left: 9px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-union1 {
+  top: 39px;
+  left: 9px;
+  width: 10px;
+  height: 2px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-rectangle2 {
+  top: 26px;
+  left: 4px;
+  width: 20px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-controls-map-type {
+  top: 8px;
+  left: 8px;
+  width: 94px;
+  height: 29px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 29px;
+  position: absolute;
+  border-radius: 2px;
+}
+.intervet-clnica-landing-page-mobile-text300 {
+  top: 8px;
+  left: 46px;
+  color: rgba(86, 86, 86, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-line {
+  top: 0px;
+  left: 38px;
+  width: 29px;
+  height: 1px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text302 {
+  top: 8px;
+  left: 8px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group131 {
+  top: 10288px;
+  left: 92px;
+  width: 246px;
+  height: 218.5139617919922px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-cta14 {
+  top: 87.95516204833984px;
+  left: 20.614524841308594px;
+  width: 204.7709503173828px;
+  height: 57.72066879272461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(241, 104, 58, 1);
+}
+.intervet-clnica-landing-page-mobile-group17 {
+  top: 12.368109703063965px;
+  left: 24.737506866455078px;
+  width: 153.61962890625px;
+  height: 33.375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-icontel7 {
+  top: 0px;
+  left: 0px;
+  width: 32.96269226074219px;
+  height: 32.98324203491211px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector204 {
+  top: 5.787098407745361px;
+  left: 0px;
+  width: 28px;
+  height: 27px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector205 {
+  top: 7.245952129364014px;
+  left: 21.31056785583496px;
+  width: 7px;
+  height: 6px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector206 {
+  top: 3.5078125px;
+  left: 24.866455078125px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector207 {
+  top: 6.1982421875px;
+  left: 18.8038330078125px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector208 {
+  top: 6.1982421875px;
+  left: 27.6954345703125px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector209 {
+  top: 3.5078125px;
+  left: 21.6324462890625px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector210 {
+  top: 0px;
+  left: 16.26245880126953px;
+  width: 17px;
+  height: 20px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text304 {
+  top: 1.375px;
+  left: 42.61962890625px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.743017196655273px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text305 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text307 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-cta15 {
+  top: 160.79315185546875px;
+  left: -2.2737367544323206e-13px;
+  width: 246px;
+  height: 57.72066879272461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(129, 179, 54, 1);
+}
+.intervet-clnica-landing-page-mobile-group26 {
+  top: 12.3681640625px;
+  left: 24.7374267578125px;
+  width: 195.792724609375px;
+  height: 33.3740234375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text309 {
+  top: 1.3740234375px;
+  left: 39.792724609375px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13.743017196655273px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text310 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text312 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-vector211 {
+  top: 0px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text314 {
+  color: rgba(129, 179, 54, 1);
+  width: 246px;
+  height: auto;
+  position: absolute;
+  font-size: 34.357540130615234px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group20 {
+  top: 10845.7109375px;
+  left: 35px;
+  width: 359px;
+  height: 270.83038330078125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text316 {
+  top: 114.66687774658203px;
+  left: 2.199679374694824px;
+  color: rgba(255, 255, 255, 1);
+  width: 355px;
+  height: auto;
+  position: absolute;
+  font-size: 22.507837295532227px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text318 {
+  top: 223.8826446533203px;
+  left: 2.199679374694824px;
+  color: rgba(255, 255, 255, 1);
+  width: 355px;
+  height: auto;
+  position: absolute;
+  font-size: 22.507837295532227px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text320 {
+  top: 176.548828125px;
+  color: rgba(255, 255, 255, 1);
+  width: 359px;
+  height: auto;
+  position: absolute;
+  font-size: 14.630093574523926px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text324 {
+  top: 252.82412719726562px;
+  left: 55.14419937133789px;
+  color: rgba(255, 255, 255, 1);
+  width: 249px;
+  height: auto;
+  position: absolute;
+  font-size: 14.630093574523926px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group19 {
+  top: 40.1884765625px;
+  left: 0.5626220703125px;
+  width: 357.8746032714844px;
+  height: 44.469627380371094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-cta16 {
+  top: 0px;
+  left: 0px;
+  width: 157.76129150390625px;
+  height: 44.469627380371094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(241, 104, 58, 1);
+}
+.intervet-clnica-landing-page-mobile-group18 {
+  top: 9.529296875px;
+  left: 19.0584716796875px;
+  width: 118.8353271484375px;
+  height: 26.059389114379883px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-icontel8 {
+  top: 0px;
+  left: 0px;
+  width: 25.395366668701172px;
+  height: 25.411823272705078px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector212 {
+  top: 4.458984375px;
+  left: 0px;
+  width: 22px;
+  height: 21px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector213 {
+  top: 5.582937240600586px;
+  left: 16.41823387145996px;
+  width: 5px;
+  height: 4px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector214 {
+  top: 2.7021484375px;
+  left: 19.1578369140625px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector215 {
+  top: 4.775160789489746px;
+  left: 14.48698902130127px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector216 {
+  top: 4.775160789489746px;
+  left: 21.337427139282227px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector217 {
+  top: 2.7021484375px;
+  left: 16.666259765625px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-vector218 {
+  top: -0.00006122648483142257px;
+  left: 12.529092788696289px;
+  width: 13px;
+  height: 15px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text326 {
+  top: 1.0593897104263306px;
+  left: 32.8353271484375px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10.588006019592285px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text327 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text329 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-cta17 {
+  top: 0px;
+  left: 168.3492431640625px;
+  width: 189.52529907226562px;
+  height: 44.469627380371094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(129, 179, 54, 1);
+}
+.intervet-clnica-landing-page-mobile-group27 {
+  top: 9.529296875px;
+  left: 19.0584716796875px;
+  width: 150.65750122070312px;
+  height: 26.059389114379883px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-text331 {
+  top: 1.0593897104263306px;
+  left: 30.657499313354492px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10.588006019592285px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 102.99999713897705%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text332 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-text334 {
+  font-weight: 400;
+}
+.intervet-clnica-landing-page-mobile-vector219 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text336 {
+  left: 61.01431655883789px;
+  color: rgba(255, 255, 255, 1);
+  width: 237px;
+  height: auto;
+  position: absolute;
+  font-size: 22.507837295532227px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 81.99999928474426%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text338 {
+  top: 10588.4248046875px;
+  left: 124.5626220703125px;
+  color: rgba(255, 255, 255, 1);
+  width: 181px;
+  height: auto;
+  position: absolute;
+  font-size: 22.507837295532227px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.intervet-clnica-landing-page-mobile-menuabrir {
+  top: 35px;
+  left: 366px;
+  width: 28px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-vector220 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 24px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-ellipse5 {
+  top: -972px;
+  left: 193px;
+  width: 1096px;
+  height: 1096px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text352 {
+  top: 32px;
+  left: 134px;
+  color: rgba(248, 202, 142, 1);
+  width: 163px;
+  height: auto;
+  position: absolute;
+  font-size: 12.890188217163086px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 700;
+  line-height: 137.99999952316284%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text353 {
+  color: rgba(248, 202, 142, 1);
+  font-weight: 700;
+}
+.intervet-clnica-landing-page-mobile-text355 {
+  color: rgba(248, 202, 142, 1);
+  font-weight: 700;
+}

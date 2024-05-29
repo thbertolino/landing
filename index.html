@@ -1,91 +1,3041 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Landing Page</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <div class="container">
-            <h1>Centro</h1>
-            <nav>
-                <ul>
-                    <li><a href="#about">Sobre</a></li>
-                    <li><a href="#services">Serviços</a></li>
-                    <li><a href="#contact">Contato</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+<html lang="english">
+  <head>
+    <title>exported project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
 
-    <section id="intro">
-        <div class="container">
-            <!-- <h2></h2> -->
-            <p>Com nossa experiência seu pet terá <span style="">saúde plena e bem-estar todos os dias!</span>.</p>
-            <a href="#services" class="btn">Saiba Mais</a>
-        </div>
-    </section>
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Noto Sans;
+        font-size: 16px;
+      }
 
-    <section id="services">
-        <div class="container">
-            <h2>Nossos Serviços</h2>
-            <div class="service">
-                <h3>Serviço 1</h3>
-                <p>Descrição do serviço 1.</p>
-            </div>
-            <div class="service">
-                <h3>Serviço 2</h3>
-                <p>Descrição do serviço 2.</p>
-            </div>
-            <div class="service">
-                <h3>Serviço 3</h3>
-                <p>Descrição do serviço 3.</p>
-            </div>
-        </div>
-    </section>
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-theme-neutral-dark);
+        background-color: var(--dl-color-theme-neutral-light);
 
-    <section id="services">
-        <div class="container">
-            <h2>Nossos Serviços</h2>
-            <div class="service">
-                <h3>Serviço 1</h3>
-                <p>Descrição do serviço 1.</p>
-            </div>
-            <div class="service">
-                <h3>Serviço 2</h3>
-                <p>Descrição do serviço 2.</p>
-            </div>
-            <div class="service">
-                <h3>Serviço 3</h3>
-                <p>Descrição do serviço 3.</p>
-            </div>
-        </div>
-    </section>
+        fill: var(--dl-color-theme-neutral-dark);
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/animate.css@4.1.1/animate.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css"
+    />
+  </head>
+  <body>
+    <link rel="stylesheet" href="./style.css" />
+    <div>
+      <link href="./index.css" rel="stylesheet" />
 
-    <section id="services">
-        <div class="container">
-            <h2>Nossos Serviços</h2>
-            <div class="service">
-                <h3>Serviço 1</h3>
-                <p>Descrição do serviço 1.</p>
+      <div class="intervet-clnica-landing-page-mobile-container">
+        <div
+          class="intervet-clnica-landing-page-mobile-intervet-clnica-landing-page-mobile"
+        >
+          <img
+            src="public/external/rectangle173511-ya5-500w.png"
+            alt="Rectangle173511"
+            class="intervet-clnica-landing-page-mobile-rectangle17"
+          />
+          <div>
+            <div class="intervet-clnica-landing-page-mobile-cta">
+              <div>
+                <div class="intervet-clnica-landing-page-mobile-icontel">
+                  <img
+                    src="public/external/vector3511-ngks.svg"
+                    alt="Vector3511"
+                    class="intervet-clnica-landing-page-mobile-vector"
+                  />
+                  <img
+                    src="public/external/vector3511-kotg.svg"
+                    alt="Vector3511"
+                    class="intervet-clnica-landing-page-mobile-vector001"
+                  />
+                  <img
+                    src="public/external/vector3511-mlmn.svg"
+                    alt="Vector3511"
+                    class="intervet-clnica-landing-page-mobile-vector002"
+                  />
+                  <img
+                    src="public/external/vector3511-yrbm.svg"
+                    alt="Vector3511"
+                    class="intervet-clnica-landing-page-mobile-vector003"
+                  />
+                  <img
+                    src="public/external/vector3511-r4gg.svg"
+                    alt="Vector3511"
+                    class="intervet-clnica-landing-page-mobile-vector004"
+                  />
+                  <img
+                    src="public/external/vector3511-2stn.svg"
+                    alt="Vector3511"
+                    class="intervet-clnica-landing-page-mobile-vector005"
+                  />
+                  <img
+                    src="public/external/vector3511-0vsd.svg"
+                    alt="Vector3511"
+                    class="intervet-clnica-landing-page-mobile-vector006"
+                  />
+                </div>
+                <span class="intervet-clnica-landing-page-mobile-text">
+                  <span class="intervet-clnica-landing-page-mobile-text001">
+                    Ligue agora
+                  </span>
+                  <br />
+                  <span
+                    class="intervet-clnica-landing-page-mobile-text003"
+                  ></span>
+                  <span>31 3772-1042</span>
+                </span>
+              </div>
             </div>
-            <div class="service">
-                <h3>Serviço 2</h3>
-                <p>Descrição do serviço 2.</p>
+            <div class="intervet-clnica-landing-page-mobile-cta01">
+              <div>
+                <span class="intervet-clnica-landing-page-mobile-text005">
+                  <span class="intervet-clnica-landing-page-mobile-text006">
+                    chame no whatsapp
+                  </span>
+                  <br />
+                  <span
+                    class="intervet-clnica-landing-page-mobile-text008"
+                  ></span>
+                  <span>31 9 8895-0544</span>
+                </span>
+                <img
+                  src="public/external/vector3511-hyu.svg"
+                  alt="Vector3511"
+                  class="intervet-clnica-landing-page-mobile-vector007"
+                />
+              </div>
             </div>
-            <div class="service">
-                <h3>Serviço 3</h3>
-                <p>Descrição do serviço 3.</p>
+            <span class="intervet-clnica-landing-page-mobile-text010">
+              <span>Quero agendar consulta com uma clínica confiável</span>
+            </span>
+          </div>
+          <img
+            src="public/external/rectangle163518-09g7-500w.png"
+            alt="Rectangle163518"
+            class="intervet-clnica-landing-page-mobile-rectangle16"
+          />
+          <img
+            src="public/external/rectangle193512-qtk-500w.png"
+            alt="Rectangle193512"
+            class="intervet-clnica-landing-page-mobile-rectangle19"
+          />
+          <img
+            src="public/external/rectangle152816-jslm-500w.png"
+            alt="Rectangle152816"
+            class="intervet-clnica-landing-page-mobile-rectangle15"
+          />
+          <img
+            src="public/external/rectangle141423-4nn-500w.png"
+            alt="Rectangle141423"
+            class="intervet-clnica-landing-page-mobile-rectangle14"
+          />
+          <img
+            src="public/external/rectangle124727-341k-500w.png"
+            alt="Rectangle124727"
+            class="intervet-clnica-landing-page-mobile-rectangle12"
+          />
+          <img
+            src="public/external/rectangle114726-jjdj-500w.png"
+            alt="Rectangle114726"
+            class="intervet-clnica-landing-page-mobile-rectangle11"
+          />
+          <img
+            src="public/external/rectangle104164-anca-500w.png"
+            alt="Rectangle104164"
+            class="intervet-clnica-landing-page-mobile-rectangle10"
+          />
+          <img
+            src="public/external/rectangle7114-18d-500w.png"
+            alt="Rectangle7114"
+            class="intervet-clnica-landing-page-mobile-rectangle7"
+          />
+          <div class="intervet-clnica-landing-page-mobile-maskgroup">
+            <img
+              src="public/external/rectangle8471-m2l-700h.png"
+              alt="Rectangle8471"
+              class="intervet-clnica-landing-page-mobile-rectangle8"
+            />
+            <img
+              src="public/external/image2medicos1469-mle-500w.png"
+              alt="IMAGE2medicos1469"
+              class="intervet-clnica-landing-page-mobile-image2medicos1"
+            />
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-logointervet">
+            <img
+              src="public/external/vector218-h50m.svg"
+              alt="Vector218"
+              class="intervet-clnica-landing-page-mobile-vector008"
+            />
+            <img
+              src="public/external/vector219-fueb.svg"
+              alt="Vector219"
+              class="intervet-clnica-landing-page-mobile-vector009"
+            />
+            <img
+              src="public/external/vector220-d5m8.svg"
+              alt="Vector220"
+              class="intervet-clnica-landing-page-mobile-vector010"
+            />
+            <img
+              src="public/external/vector221-i9kh.svg"
+              alt="Vector221"
+              class="intervet-clnica-landing-page-mobile-vector011"
+            />
+            <img
+              src="public/external/vector222-bis.svg"
+              alt="Vector222"
+              class="intervet-clnica-landing-page-mobile-vector012"
+            />
+            <img
+              src="public/external/vector223-19gj.svg"
+              alt="Vector223"
+              class="intervet-clnica-landing-page-mobile-vector013"
+            />
+            <img
+              src="public/external/vector224-ca33.svg"
+              alt="Vector224"
+              class="intervet-clnica-landing-page-mobile-vector014"
+            />
+            <img
+              src="public/external/vector225-15e.svg"
+              alt="Vector225"
+              class="intervet-clnica-landing-page-mobile-vector015"
+            />
+            <img
+              src="public/external/vector226-enk4.svg"
+              alt="Vector226"
+              class="intervet-clnica-landing-page-mobile-vector016"
+            />
+            <img
+              src="public/external/vector227-pmk.svg"
+              alt="Vector227"
+              class="intervet-clnica-landing-page-mobile-vector017"
+            />
+            <img
+              src="public/external/vector228-0aan.svg"
+              alt="Vector228"
+              class="intervet-clnica-landing-page-mobile-vector018"
+            />
+            <img
+              src="public/external/vector229-knijk.svg"
+              alt="Vector229"
+              class="intervet-clnica-landing-page-mobile-vector019"
+            />
+            <img
+              src="public/external/vector230-u3u.svg"
+              alt="Vector230"
+              class="intervet-clnica-landing-page-mobile-vector020"
+            />
+            <img
+              src="public/external/vector231-ezcp.svg"
+              alt="Vector231"
+              class="intervet-clnica-landing-page-mobile-vector021"
+            />
+            <img
+              src="public/external/vector232-isy3.svg"
+              alt="Vector232"
+              class="intervet-clnica-landing-page-mobile-vector022"
+            />
+            <img
+              src="public/external/vector233-nwo.svg"
+              alt="Vector233"
+              class="intervet-clnica-landing-page-mobile-vector023"
+            />
+            <img
+              src="public/external/vector234-ut6r.svg"
+              alt="Vector234"
+              class="intervet-clnica-landing-page-mobile-vector024"
+            />
+            <img
+              src="public/external/vector235-ga9s.svg"
+              alt="Vector235"
+              class="intervet-clnica-landing-page-mobile-vector025"
+            />
+            <img
+              src="public/external/vector236-3ict.svg"
+              alt="Vector236"
+              class="intervet-clnica-landing-page-mobile-vector026"
+            />
+            <img
+              src="public/external/vector237-otr.svg"
+              alt="Vector237"
+              class="intervet-clnica-landing-page-mobile-vector027"
+            />
+            <img
+              src="public/external/vector238-slr.svg"
+              alt="Vector238"
+              class="intervet-clnica-landing-page-mobile-vector028"
+            />
+            <img
+              src="public/external/vector239-by2s.svg"
+              alt="Vector239"
+              class="intervet-clnica-landing-page-mobile-vector029"
+            />
+            <img
+              src="public/external/vector240-0kad.svg"
+              alt="Vector240"
+              class="intervet-clnica-landing-page-mobile-vector030"
+            />
+            <img
+              src="public/external/vector241-oa65.svg"
+              alt="Vector241"
+              class="intervet-clnica-landing-page-mobile-vector031"
+            />
+            <img
+              src="public/external/vector242-wr8s.svg"
+              alt="Vector242"
+              class="intervet-clnica-landing-page-mobile-vector032"
+            />
+            <img
+              src="public/external/vector243-kct.svg"
+              alt="Vector243"
+              class="intervet-clnica-landing-page-mobile-vector033"
+            />
+            <img
+              src="public/external/vector244-qhpe.svg"
+              alt="Vector244"
+              class="intervet-clnica-landing-page-mobile-vector034"
+            />
+            <img
+              src="public/external/vector245-urjk.svg"
+              alt="Vector245"
+              class="intervet-clnica-landing-page-mobile-vector035"
+            />
+            <img
+              src="public/external/vector246-drjd.svg"
+              alt="Vector246"
+              class="intervet-clnica-landing-page-mobile-vector036"
+            />
+            <img
+              src="public/external/vector247-jfxa.svg"
+              alt="Vector247"
+              class="intervet-clnica-landing-page-mobile-vector037"
+            />
+            <img
+              src="public/external/vector248-gtl.svg"
+              alt="Vector248"
+              class="intervet-clnica-landing-page-mobile-vector038"
+            />
+            <img
+              src="public/external/vector249-2ejqu.svg"
+              alt="Vector249"
+              class="intervet-clnica-landing-page-mobile-vector039"
+            />
+            <img
+              src="public/external/vector250-yr1y.svg"
+              alt="Vector250"
+              class="intervet-clnica-landing-page-mobile-vector040"
+            />
+            <img
+              src="public/external/vector251-goy9.svg"
+              alt="Vector251"
+              class="intervet-clnica-landing-page-mobile-vector041"
+            />
+            <img
+              src="public/external/vector252-mb5t.svg"
+              alt="Vector252"
+              class="intervet-clnica-landing-page-mobile-vector042"
+            />
+            <img
+              src="public/external/vector253-au8r.svg"
+              alt="Vector253"
+              class="intervet-clnica-landing-page-mobile-vector043"
+            />
+            <img
+              src="public/external/vector254-fkzj.svg"
+              alt="Vector254"
+              class="intervet-clnica-landing-page-mobile-vector044"
+            />
+            <img
+              src="public/external/vector255-up3.svg"
+              alt="Vector255"
+              class="intervet-clnica-landing-page-mobile-vector045"
+            />
+            <img
+              src="public/external/vector256-l73.svg"
+              alt="Vector256"
+              class="intervet-clnica-landing-page-mobile-vector046"
+            />
+            <img
+              src="public/external/vector257-90gu.svg"
+              alt="Vector257"
+              class="intervet-clnica-landing-page-mobile-vector047"
+            />
+            <img
+              src="public/external/vector258-py1r.svg"
+              alt="Vector258"
+              class="intervet-clnica-landing-page-mobile-vector048"
+            />
+            <img
+              src="public/external/vector259-2t5w9.svg"
+              alt="Vector259"
+              class="intervet-clnica-landing-page-mobile-vector049"
+            />
+            <img
+              src="public/external/vector260-3sg4.svg"
+              alt="Vector260"
+              class="intervet-clnica-landing-page-mobile-vector050"
+            />
+          </div>
+          <span class="intervet-clnica-landing-page-mobile-text012">
+            <span class="intervet-clnica-landing-page-mobile-text013">
+              Com nossa experiência
+            </span>
+            <br />
+            <span class="intervet-clnica-landing-page-mobile-text015">
+              seu pet terá
+            </span>
+            <span>saúde plena</span>
+            <br />
+            <span>e bem-estar todos os dias!</span>
+          </span>
+          <div class="intervet-clnica-landing-page-mobile-cta02">
+            <span class="intervet-clnica-landing-page-mobile-text019">
+              <span>Agende uma consulta</span>
+              <br />
+              <span>e surpreenda-se</span>
+            </span>
+          </div>
+          <span class="intervet-clnica-landing-page-mobile-text023">
+            <span>Descubra porque o seu pet estará em boas mãos</span>
+          </span>
+          <span class="intervet-clnica-landing-page-mobile-text025">
+            <span>Descubra nossos</span>
+            <br />
+            <span>Serviços Exclusivos</span>
+          </span>
+          <span class="intervet-clnica-landing-page-mobile-text029">
+            <span>Eles confiam em nós!</span>
+          </span>
+          <span class="intervet-clnica-landing-page-mobile-text031">
+            <span class="intervet-clnica-landing-page-mobile-text032">
+              Conheça Nossos Heróis:
+            </span>
+            <span>A equipe de veterinários que fazem a diferença</span>
+          </span>
+          <span class="intervet-clnica-landing-page-mobile-text034">
+            <span>
+              Oferecemos consultas em múltiplas especialidades, cirurgias
+              avançadas, e internações 24 horas.
+            </span>
+            <br />
+            <span></span>
+            <br />
+            <span>
+              Dispomos de exames laboratoriais, raios X, ultrassom,
+              ecocardiograma, endoscopia, microchipagem e eletroquimioterapia,
+              tudo disponível em um só local.
+            </span>
+          </span>
+          <span class="intervet-clnica-landing-page-mobile-text040">
+            <span class="intervet-clnica-landing-page-mobile-text041">
+              Histórias reais de quem já passou por aqui e
+            </span>
+            <span>nos indicam para seus amigos</span>
+          </span>
+          <span class="intervet-clnica-landing-page-mobile-text043">
+            <span>Conheça um pouco sobre a nossa história</span>
+          </span>
+          <span class="intervet-clnica-landing-page-mobile-text045">
+            <span>
+              A Intervet, com mais de 28 anos de dedicação à saúde animal, somos
+              uma equipe de veterinários apaixonados e experientes. Nossa missão
+              é oferecer cuidados excepcionais, combinando conhecimento técnico
+              com um atendimento personalizado e humanizado. Estamos
+              comprometidos com o bem-estar de cada pet, utilizando as mais
+              recentes tecnologias e práticas para garantir a melhor qualidade
+              de vida para seus companheiros de quatro patas.
+            </span>
+          </span>
+          <span class="intervet-clnica-landing-page-mobile-text047">
+            <span>INTERVET&nbsp;2024 © Todos os direitos reservados&nbsp;</span>
+            <br />
+            <span>CNPJ: 02.808.797/0001-83</span>
+            <br />
+            <span></span>
+          </span>
+          <div>
+            <span class="intervet-clnica-landing-page-mobile-text053">
+              <span>A sua veterinária em</span>
+              <br />
+              <span>Sete Lagoas e região</span>
+            </span>
+            <span class="intervet-clnica-landing-page-mobile-text057">
+              <span>Localização estratégica e fácil acesso</span>
+              <br />
+              <span>bem no centro de Sete Lagoas - MG</span>
+            </span>
+            <span class="intervet-clnica-landing-page-mobile-text061">
+              <span class="intervet-clnica-landing-page-mobile-text062">
+                Nosso Endereço:
+              </span>
+              <br />
+              <span class="intervet-clnica-landing-page-mobile-text064"></span>
+              <span>
+                R. Fernando Pinto, 225 A - Centro, Sete Lagoas MG, 35700-042
+              </span>
+              <br />
+              <span></span>
+            </span>
+          </div>
+          <span class="intervet-clnica-landing-page-mobile-text068">
+            <span class="intervet-clnica-landing-page-mobile-text069">
+              A maior e mais bem preparada estrutura clínico-hospitalar
+            </span>
+            <br />
+            <span class="intervet-clnica-landing-page-mobile-text071">
+              de Sete Lagoas e região
+            </span>
+            <br />
+            <span class="intervet-clnica-landing-page-mobile-text073"></span>
+            <span class="intervet-clnica-landing-page-mobile-text074"></span>
+            <br />
+            <span class="intervet-clnica-landing-page-mobile-text076"></span>
+            <span>Estrutura arrojada e tecnologia</span>
+            <br />
+            <span>de ponta para o melhor cuidado</span>
+          </span>
+          <span class="intervet-clnica-landing-page-mobile-text080">
+            <span class="intervet-clnica-landing-page-mobile-text081">
+              É emergência? Estamos 24h aqui para o seu pet!
+            </span>
+            <br />
+            <span class="intervet-clnica-landing-page-mobile-text083"></span>
+            <span></span>
+            <br />
+            <span>
+              Se precisar de atendimento emergencial, ligue diretamente para o
+              telefone abaixo.
+            </span>
+          </span>
+          <span class="intervet-clnica-landing-page-mobile-text087">
+            <span>FAQ</span>
+            <br />
+            <span>Suas Dúvidas Respondidas Instantaneamente</span>
+            <br />
+            <span></span>
+          </span>
+          <div>
+            <div class="intervet-clnica-landing-page-mobile-cta03">
+              <div>
+                <div class="intervet-clnica-landing-page-mobile-icontel1">
+                  <img
+                    src="public/external/vector4371-mw6n.svg"
+                    alt="Vector4371"
+                    class="intervet-clnica-landing-page-mobile-vector051"
+                  />
+                  <img
+                    src="public/external/vector4372-aabe.svg"
+                    alt="Vector4372"
+                    class="intervet-clnica-landing-page-mobile-vector052"
+                  />
+                  <img
+                    src="public/external/vector4373-47h5.svg"
+                    alt="Vector4373"
+                    class="intervet-clnica-landing-page-mobile-vector053"
+                  />
+                  <img
+                    src="public/external/vector4374-hdfg.svg"
+                    alt="Vector4374"
+                    class="intervet-clnica-landing-page-mobile-vector054"
+                  />
+                  <img
+                    src="public/external/vector4375-23w3.svg"
+                    alt="Vector4375"
+                    class="intervet-clnica-landing-page-mobile-vector055"
+                  />
+                  <img
+                    src="public/external/vector4376-djg.svg"
+                    alt="Vector4376"
+                    class="intervet-clnica-landing-page-mobile-vector056"
+                  />
+                  <img
+                    src="public/external/vector4377-u8yf.svg"
+                    alt="Vector4377"
+                    class="intervet-clnica-landing-page-mobile-vector057"
+                  />
+                </div>
+                <span class="intervet-clnica-landing-page-mobile-text093">
+                  <span class="intervet-clnica-landing-page-mobile-text094">
+                    Ligue agora
+                  </span>
+                  <br />
+                  <span
+                    class="intervet-clnica-landing-page-mobile-text096"
+                  ></span>
+                  <span>31 3772-1042</span>
+                </span>
+              </div>
             </div>
+            <div class="intervet-clnica-landing-page-mobile-cta04">
+              <div>
+                <span class="intervet-clnica-landing-page-mobile-text098">
+                  <span class="intervet-clnica-landing-page-mobile-text099">
+                    chame no whatsapp
+                  </span>
+                  <br />
+                  <span
+                    class="intervet-clnica-landing-page-mobile-text101"
+                  ></span>
+                  <span>31 9 8895-0544</span>
+                </span>
+                <img
+                  src="public/external/vector4394-x1an.svg"
+                  alt="Vector4394"
+                  class="intervet-clnica-landing-page-mobile-vector058"
+                />
+              </div>
+            </div>
+            <span class="intervet-clnica-landing-page-mobile-text103">
+              <span>Quero agendar uma consulta</span>
+              <br />
+              <span></span>
+            </span>
+          </div>
+          <div>
+            <div class="intervet-clnica-landing-page-mobile-cta05">
+              <div class="intervet-clnica-landing-page-mobile-group12">
+                <div class="intervet-clnica-landing-page-mobile-icontel2">
+                  <img
+                    src="public/external/vector1316-n5do.svg"
+                    alt="Vector1316"
+                    class="intervet-clnica-landing-page-mobile-vector059"
+                  />
+                  <img
+                    src="public/external/vector1317-01b4.svg"
+                    alt="Vector1317"
+                    class="intervet-clnica-landing-page-mobile-vector060"
+                  />
+                  <img
+                    src="public/external/vector1318-3i58.svg"
+                    alt="Vector1318"
+                    class="intervet-clnica-landing-page-mobile-vector061"
+                  />
+                  <img
+                    src="public/external/vector1319-cqe9.svg"
+                    alt="Vector1319"
+                    class="intervet-clnica-landing-page-mobile-vector062"
+                  />
+                  <img
+                    src="public/external/vector1320-2swt.svg"
+                    alt="Vector1320"
+                    class="intervet-clnica-landing-page-mobile-vector063"
+                  />
+                  <img
+                    src="public/external/vector1321-vql8.svg"
+                    alt="Vector1321"
+                    class="intervet-clnica-landing-page-mobile-vector064"
+                  />
+                  <img
+                    src="public/external/vector1322-iw14.svg"
+                    alt="Vector1322"
+                    class="intervet-clnica-landing-page-mobile-vector065"
+                  />
+                </div>
+                <span class="intervet-clnica-landing-page-mobile-text107">
+                  <span class="intervet-clnica-landing-page-mobile-text108">
+                    Ligue agora
+                  </span>
+                  <br />
+                  <span
+                    class="intervet-clnica-landing-page-mobile-text110"
+                  ></span>
+                  <span>31 3772-1042</span>
+                </span>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-cta06">
+              <div class="intervet-clnica-landing-page-mobile-group22">
+                <span class="intervet-clnica-landing-page-mobile-text112">
+                  <span class="intervet-clnica-landing-page-mobile-text113">
+                    chame no whatsapp
+                  </span>
+                  <br />
+                  <span
+                    class="intervet-clnica-landing-page-mobile-text115"
+                  ></span>
+                  <span>31 9 8895-0544</span>
+                </span>
+                <img
+                  src="public/external/vector1328-gh4r.svg"
+                  alt="Vector1328"
+                  class="intervet-clnica-landing-page-mobile-vector066"
+                />
+              </div>
+            </div>
+            <span class="intervet-clnica-landing-page-mobile-text117">
+              <span>Quero um</span>
+              <br />
+              <span>especialista confiável</span>
+            </span>
+          </div>
+          <div>
+            <div class="intervet-clnica-landing-page-mobile-cta07">
+              <div>
+                <div class="intervet-clnica-landing-page-mobile-icontel3">
+                  <img
+                    src="public/external/vector3516-eqx.svg"
+                    alt="Vector3516"
+                    class="intervet-clnica-landing-page-mobile-vector067"
+                  />
+                  <img
+                    src="public/external/vector3516-qs9i.svg"
+                    alt="Vector3516"
+                    class="intervet-clnica-landing-page-mobile-vector068"
+                  />
+                  <img
+                    src="public/external/vector3516-t9nm.svg"
+                    alt="Vector3516"
+                    class="intervet-clnica-landing-page-mobile-vector069"
+                  />
+                  <img
+                    src="public/external/vector3516-s5t8.svg"
+                    alt="Vector3516"
+                    class="intervet-clnica-landing-page-mobile-vector070"
+                  />
+                  <img
+                    src="public/external/vector3516-v62p.svg"
+                    alt="Vector3516"
+                    class="intervet-clnica-landing-page-mobile-vector071"
+                  />
+                  <img
+                    src="public/external/vector3516-qfsp.svg"
+                    alt="Vector3516"
+                    class="intervet-clnica-landing-page-mobile-vector072"
+                  />
+                  <img
+                    src="public/external/vector3516-lydl.svg"
+                    alt="Vector3516"
+                    class="intervet-clnica-landing-page-mobile-vector073"
+                  />
+                </div>
+                <span class="intervet-clnica-landing-page-mobile-text121">
+                  <span class="intervet-clnica-landing-page-mobile-text122">
+                    Ligue agora
+                  </span>
+                  <br />
+                  <span
+                    class="intervet-clnica-landing-page-mobile-text124"
+                  ></span>
+                  <span>31 3772-1042</span>
+                </span>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-cta08">
+              <div class="intervet-clnica-landing-page-mobile-group23">
+                <span class="intervet-clnica-landing-page-mobile-text126">
+                  <span class="intervet-clnica-landing-page-mobile-text127">
+                    chame no whatsapp
+                  </span>
+                  <br />
+                  <span
+                    class="intervet-clnica-landing-page-mobile-text129"
+                  ></span>
+                  <span>31 9 8895-0544</span>
+                </span>
+                <img
+                  src="public/external/vector3517-sq6.svg"
+                  alt="Vector3517"
+                  class="intervet-clnica-landing-page-mobile-vector074"
+                />
+              </div>
+            </div>
+            <span class="intervet-clnica-landing-page-mobile-text131">
+              <span>Quero agendar</span>
+              <br />
+              <span>consulta agora</span>
+            </span>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-group11">
+            <div class="intervet-clnica-landing-page-mobile-cta09">
+              <div>
+                <div class="intervet-clnica-landing-page-mobile-icontel4">
+                  <img
+                    src="public/external/vector4712-43sg.svg"
+                    alt="Vector4712"
+                    class="intervet-clnica-landing-page-mobile-vector075"
+                  />
+                  <img
+                    src="public/external/vector4713-ifvd.svg"
+                    alt="Vector4713"
+                    class="intervet-clnica-landing-page-mobile-vector076"
+                  />
+                  <img
+                    src="public/external/vector4714-uh1v.svg"
+                    alt="Vector4714"
+                    class="intervet-clnica-landing-page-mobile-vector077"
+                  />
+                  <img
+                    src="public/external/vector4715-dhc3.svg"
+                    alt="Vector4715"
+                    class="intervet-clnica-landing-page-mobile-vector078"
+                  />
+                  <img
+                    src="public/external/vector4716-x6sf.svg"
+                    alt="Vector4716"
+                    class="intervet-clnica-landing-page-mobile-vector079"
+                  />
+                  <img
+                    src="public/external/vector4717-v3vk.svg"
+                    alt="Vector4717"
+                    class="intervet-clnica-landing-page-mobile-vector080"
+                  />
+                  <img
+                    src="public/external/vector4718-2xk8.svg"
+                    alt="Vector4718"
+                    class="intervet-clnica-landing-page-mobile-vector081"
+                  />
+                </div>
+                <span class="intervet-clnica-landing-page-mobile-text135">
+                  <span class="intervet-clnica-landing-page-mobile-text136">
+                    Ligue agora
+                  </span>
+                  <br />
+                  <span
+                    class="intervet-clnica-landing-page-mobile-text138"
+                  ></span>
+                  <span>31 3772-1042</span>
+                </span>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-cta10">
+              <div class="intervet-clnica-landing-page-mobile-group24">
+                <span class="intervet-clnica-landing-page-mobile-text140">
+                  <span class="intervet-clnica-landing-page-mobile-text141">
+                    chame no whatsapp
+                  </span>
+                  <br />
+                  <span
+                    class="intervet-clnica-landing-page-mobile-text143"
+                  ></span>
+                  <span>31 9 8895-0544</span>
+                </span>
+                <img
+                  src="public/external/vector4724-lq7.svg"
+                  alt="Vector4724"
+                  class="intervet-clnica-landing-page-mobile-vector082"
+                />
+              </div>
+            </div>
+            <span class="intervet-clnica-landing-page-mobile-text145">
+              <span>Quero agendar uma consulta</span>
+              <br />
+              <span></span>
+            </span>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-group13">
+            <div class="intervet-clnica-landing-page-mobile-cta11">
+              <div>
+                <div class="intervet-clnica-landing-page-mobile-icontel5">
+                  <img
+                    src="public/external/vector1421-7p3.svg"
+                    alt="Vector1421"
+                    class="intervet-clnica-landing-page-mobile-vector083"
+                  />
+                  <img
+                    src="public/external/vector1421-278.svg"
+                    alt="Vector1421"
+                    class="intervet-clnica-landing-page-mobile-vector084"
+                  />
+                  <img
+                    src="public/external/vector1421-kahr.svg"
+                    alt="Vector1421"
+                    class="intervet-clnica-landing-page-mobile-vector085"
+                  />
+                  <img
+                    src="public/external/vector1421-b9t.svg"
+                    alt="Vector1421"
+                    class="intervet-clnica-landing-page-mobile-vector086"
+                  />
+                  <img
+                    src="public/external/vector1421-upe.svg"
+                    alt="Vector1421"
+                    class="intervet-clnica-landing-page-mobile-vector087"
+                  />
+                  <img
+                    src="public/external/vector1421-tym.svg"
+                    alt="Vector1421"
+                    class="intervet-clnica-landing-page-mobile-vector088"
+                  />
+                  <img
+                    src="public/external/vector1421-jq3r.svg"
+                    alt="Vector1421"
+                    class="intervet-clnica-landing-page-mobile-vector089"
+                  />
+                </div>
+                <span class="intervet-clnica-landing-page-mobile-text149">
+                  <span class="intervet-clnica-landing-page-mobile-text150">
+                    Ligue agora
+                  </span>
+                  <br />
+                  <span
+                    class="intervet-clnica-landing-page-mobile-text152"
+                  ></span>
+                  <span>31 3772-1042</span>
+                </span>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-cta12">
+              <div class="intervet-clnica-landing-page-mobile-group25">
+                <span class="intervet-clnica-landing-page-mobile-text154">
+                  <span class="intervet-clnica-landing-page-mobile-text155">
+                    chame no whatsapp
+                  </span>
+                  <br />
+                  <span
+                    class="intervet-clnica-landing-page-mobile-text157"
+                  ></span>
+                  <span>31 9 8895-0544</span>
+                </span>
+                <img
+                  src="public/external/vector1422-14r.svg"
+                  alt="Vector1422"
+                  class="intervet-clnica-landing-page-mobile-vector090"
+                />
+              </div>
+            </div>
+            <span class="intervet-clnica-landing-page-mobile-text159">
+              <span>Quero meu</span>
+              <br />
+              <span>pet protegido</span>
+              <br />
+              <span></span>
+            </span>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-veterinrios">
+            <span class="intervet-clnica-landing-page-mobile-text165">
+              <span>Veterinários Altamente Qualificados</span>
+            </span>
+            <span class="intervet-clnica-landing-page-mobile-text167">
+              <span>
+                Os melhores e mais atualizados profissionais do mercado.
+              </span>
+            </span>
+            <div class="intervet-clnica-landing-page-mobile-iconveterinrios">
+              <img
+                src="public/external/vector4174-142.svg"
+                alt="Vector4174"
+                class="intervet-clnica-landing-page-mobile-vector091"
+              />
+              <img
+                src="public/external/vector4175-aqr.svg"
+                alt="Vector4175"
+                class="intervet-clnica-landing-page-mobile-vector092"
+              />
+              <img
+                src="public/external/vector4176-bsv8.svg"
+                alt="Vector4176"
+                class="intervet-clnica-landing-page-mobile-vector093"
+              />
+              <img
+                src="public/external/vector4177-4jvm.svg"
+                alt="Vector4177"
+                class="intervet-clnica-landing-page-mobile-vector094"
+              />
+              <img
+                src="public/external/vector4178-otu6.svg"
+                alt="Vector4178"
+                class="intervet-clnica-landing-page-mobile-vector095"
+              />
+              <img
+                src="public/external/vector4179-99wy.svg"
+                alt="Vector4179"
+                class="intervet-clnica-landing-page-mobile-vector096"
+              />
+              <img
+                src="public/external/vector4180-4jab.svg"
+                alt="Vector4180"
+                class="intervet-clnica-landing-page-mobile-vector097"
+              />
+            </div>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-pets-salvos">
+            <span class="intervet-clnica-landing-page-mobile-text169">
+              <span>+ de 30 Mil vidas</span>
+              <br />
+              <span>de pets salvas</span>
+            </span>
+            <span class="intervet-clnica-landing-page-mobile-text173">
+              <span>Atendidos com eficiência e satisfação dos tutores.</span>
+            </span>
+            <div class="intervet-clnica-landing-page-mobile-icondogsalvo">
+              <img
+                src="public/external/vector4264-rzbb.svg"
+                alt="Vector4264"
+                class="intervet-clnica-landing-page-mobile-vector098"
+              />
+              <img
+                src="public/external/vector4265-opsa.svg"
+                alt="Vector4265"
+                class="intervet-clnica-landing-page-mobile-vector099"
+              />
+              <img
+                src="public/external/vector4266-i50r.svg"
+                alt="Vector4266"
+                class="intervet-clnica-landing-page-mobile-vector100"
+              />
+              <img
+                src="public/external/vector4267-c61k.svg"
+                alt="Vector4267"
+                class="intervet-clnica-landing-page-mobile-vector101"
+              />
+              <img
+                src="public/external/vector4268-s2kz.svg"
+                alt="Vector4268"
+                class="intervet-clnica-landing-page-mobile-vector102"
+              />
+            </div>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-cta13">
+            <div class="intervet-clnica-landing-page-mobile-group16">
+              <div class="intervet-clnica-landing-page-mobile-icontel6">
+                <img
+                  src="public/external/vector2026-o8hc.svg"
+                  alt="Vector2026"
+                  class="intervet-clnica-landing-page-mobile-vector103"
+                />
+                <img
+                  src="public/external/vector2026-9y2.svg"
+                  alt="Vector2026"
+                  class="intervet-clnica-landing-page-mobile-vector104"
+                />
+                <img
+                  src="public/external/vector2026-xmnf.svg"
+                  alt="Vector2026"
+                  class="intervet-clnica-landing-page-mobile-vector105"
+                />
+                <img
+                  src="public/external/vector2026-q4rn.svg"
+                  alt="Vector2026"
+                  class="intervet-clnica-landing-page-mobile-vector106"
+                />
+                <img
+                  src="public/external/vector2026-ib6k.svg"
+                  alt="Vector2026"
+                  class="intervet-clnica-landing-page-mobile-vector107"
+                />
+                <img
+                  src="public/external/vector2026-lmem.svg"
+                  alt="Vector2026"
+                  class="intervet-clnica-landing-page-mobile-vector108"
+                />
+                <img
+                  src="public/external/vector2026-t534.svg"
+                  alt="Vector2026"
+                  class="intervet-clnica-landing-page-mobile-vector109"
+                />
+              </div>
+              <span class="intervet-clnica-landing-page-mobile-text175">
+                <span class="intervet-clnica-landing-page-mobile-text176">
+                  Ligue agora
+                </span>
+                <br />
+                <span
+                  class="intervet-clnica-landing-page-mobile-text178"
+                ></span>
+                <span>31 3772-1042</span>
+              </span>
+            </div>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-estrutura">
+            <span class="intervet-clnica-landing-page-mobile-text180">
+              <span>Estrutura completa</span>
+              <br />
+              <span>e Arrojada</span>
+            </span>
+            <span class="intervet-clnica-landing-page-mobile-text184">
+              <span>A maior estrutura</span>
+              <br />
+              <span>clínico-hospitalar de</span>
+              <br />
+              <span>Sete Lagoas e Região.</span>
+            </span>
+            <div class="intervet-clnica-landing-page-mobile-iconestrutura">
+              <img
+                src="public/external/vector4291-vp8f.svg"
+                alt="Vector4291"
+                class="intervet-clnica-landing-page-mobile-vector110"
+              />
+              <img
+                src="public/external/vector4292-49ju.svg"
+                alt="Vector4292"
+                class="intervet-clnica-landing-page-mobile-vector111"
+              />
+              <img
+                src="public/external/vector4293-3alg.svg"
+                alt="Vector4293"
+                class="intervet-clnica-landing-page-mobile-vector112"
+              />
+              <img
+                src="public/external/vector4294-qfg7.svg"
+                alt="Vector4294"
+                class="intervet-clnica-landing-page-mobile-vector113"
+              />
+              <img
+                src="public/external/vector4295-lmrs.svg"
+                alt="Vector4295"
+                class="intervet-clnica-landing-page-mobile-vector114"
+              />
+              <img
+                src="public/external/vector4296-jtf.svg"
+                alt="Vector4296"
+                class="intervet-clnica-landing-page-mobile-vector115"
+              />
+              <img
+                src="public/external/vector4297-uuzl.svg"
+                alt="Vector4297"
+                class="intervet-clnica-landing-page-mobile-vector116"
+              />
+              <img
+                src="public/external/vector4298-x9j7.svg"
+                alt="Vector4298"
+                class="intervet-clnica-landing-page-mobile-vector117"
+              />
+              <img
+                src="public/external/vector4299-f3bs.svg"
+                alt="Vector4299"
+                class="intervet-clnica-landing-page-mobile-vector118"
+              />
+              <img
+                src="public/external/vector4300-z97.svg"
+                alt="Vector4300"
+                class="intervet-clnica-landing-page-mobile-vector119"
+              />
+              <img
+                src="public/external/vector4301-3aqj.svg"
+                alt="Vector4301"
+                class="intervet-clnica-landing-page-mobile-vector120"
+              />
+              <img
+                src="public/external/vector4302-z8c.svg"
+                alt="Vector4302"
+                class="intervet-clnica-landing-page-mobile-vector121"
+              />
+              <img
+                src="public/external/vector4303-84aw.svg"
+                alt="Vector4303"
+                class="intervet-clnica-landing-page-mobile-vector122"
+              />
+              <img
+                src="public/external/vector4304-ur6a.svg"
+                alt="Vector4304"
+                class="intervet-clnica-landing-page-mobile-vector123"
+              />
+              <img
+                src="public/external/vector4305-a5m.svg"
+                alt="Vector4305"
+                class="intervet-clnica-landing-page-mobile-vector124"
+              />
+              <img
+                src="public/external/vector4306-qid.svg"
+                alt="Vector4306"
+                class="intervet-clnica-landing-page-mobile-vector125"
+              />
+              <img
+                src="public/external/vector4307-abb.svg"
+                alt="Vector4307"
+                class="intervet-clnica-landing-page-mobile-vector126"
+              />
+              <img
+                src="public/external/vector4308-dww8.svg"
+                alt="Vector4308"
+                class="intervet-clnica-landing-page-mobile-vector127"
+              />
+              <img
+                src="public/external/vector4309-idx.svg"
+                alt="Vector4309"
+                class="intervet-clnica-landing-page-mobile-vector128"
+              />
+              <img
+                src="public/external/vector4310-soe5.svg"
+                alt="Vector4310"
+                class="intervet-clnica-landing-page-mobile-vector129"
+              />
+              <img
+                src="public/external/vector4311-lyep.svg"
+                alt="Vector4311"
+                class="intervet-clnica-landing-page-mobile-vector130"
+              />
+              <img
+                src="public/external/vector4312-rirp.svg"
+                alt="Vector4312"
+                class="intervet-clnica-landing-page-mobile-vector131"
+              />
+              <img
+                src="public/external/vector4313-2rec.svg"
+                alt="Vector4313"
+                class="intervet-clnica-landing-page-mobile-vector132"
+              />
+            </div>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-cashback">
+            <span class="intervet-clnica-landing-page-mobile-text190">
+              <span>Cashback</span>
+            </span>
+            <span class="intervet-clnica-landing-page-mobile-text192">
+              <span>
+                Em todos os serviços e produtos da clínica para mais economia e
+                cuidado.
+              </span>
+            </span>
+            <div class="intervet-clnica-landing-page-mobile-iconcashback">
+              <img
+                src="public/external/vector4329-lnzr.svg"
+                alt="Vector4329"
+                class="intervet-clnica-landing-page-mobile-vector133"
+              />
+              <img
+                src="public/external/vector4330-smci.svg"
+                alt="Vector4330"
+                class="intervet-clnica-landing-page-mobile-vector134"
+              />
+            </div>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-experincia">
+            <span class="intervet-clnica-landing-page-mobile-text194">
+              <span>Experiência Comprovada</span>
+            </span>
+            <span class="intervet-clnica-landing-page-mobile-text196">
+              <span>
+                + de 28 anos cuidando de pets com dedicação e expertise.
+              </span>
+            </span>
+            <div class="intervet-clnica-landing-page-mobile-iconexperincia">
+              <img
+                src="public/external/vector4186-f03g.svg"
+                alt="Vector4186"
+                class="intervet-clnica-landing-page-mobile-vector135"
+              />
+              <img
+                src="public/external/vector4187-7ddq.svg"
+                alt="Vector4187"
+                class="intervet-clnica-landing-page-mobile-vector136"
+              />
+              <img
+                src="public/external/vector4188-may.svg"
+                alt="Vector4188"
+                class="intervet-clnica-landing-page-mobile-vector137"
+              />
+              <img
+                src="public/external/vector4189-waq8.svg"
+                alt="Vector4189"
+                class="intervet-clnica-landing-page-mobile-vector138"
+              />
+              <img
+                src="public/external/vector4190-y95.svg"
+                alt="Vector4190"
+                class="intervet-clnica-landing-page-mobile-vector139"
+              />
+              <img
+                src="public/external/vector4191-1e8d.svg"
+                alt="Vector4191"
+                class="intervet-clnica-landing-page-mobile-vector140"
+              />
+              <img
+                src="public/external/vector4192-5osf.svg"
+                alt="Vector4192"
+                class="intervet-clnica-landing-page-mobile-vector141"
+              />
+            </div>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-emergncia">
+            <span class="intervet-clnica-landing-page-mobile-text198">
+              <span>Emergência 24h</span>
+            </span>
+            <span class="intervet-clnica-landing-page-mobile-text200">
+              <span>
+                Basta ligar que estaremos prontos para atender a qualquer hora,
+                todos os dias, incluindo feriados.
+              </span>
+            </span>
+            <div class="intervet-clnica-landing-page-mobile-iconemergncia">
+              <img
+                src="public/external/vector4274-s52g.svg"
+                alt="Vector4274"
+                class="intervet-clnica-landing-page-mobile-vector142"
+              />
+              <img
+                src="public/external/vector4275-blql.svg"
+                alt="Vector4275"
+                class="intervet-clnica-landing-page-mobile-vector143"
+              />
+              <img
+                src="public/external/vector4276-da7k.svg"
+                alt="Vector4276"
+                class="intervet-clnica-landing-page-mobile-vector144"
+              />
+              <img
+                src="public/external/vector4277-684.svg"
+                alt="Vector4277"
+                class="intervet-clnica-landing-page-mobile-vector145"
+              />
+              <img
+                src="public/external/vector4278-dzj3.svg"
+                alt="Vector4278"
+                class="intervet-clnica-landing-page-mobile-vector146"
+              />
+              <img
+                src="public/external/vector4279-jyv.svg"
+                alt="Vector4279"
+                class="intervet-clnica-landing-page-mobile-vector147"
+              />
+              <img
+                src="public/external/vector4280-8aqp.svg"
+                alt="Vector4280"
+                class="intervet-clnica-landing-page-mobile-vector148"
+              />
+              <img
+                src="public/external/vector4281-85f9.svg"
+                alt="Vector4281"
+                class="intervet-clnica-landing-page-mobile-vector149"
+              />
+              <img
+                src="public/external/vector4282-jcur.svg"
+                alt="Vector4282"
+                class="intervet-clnica-landing-page-mobile-vector150"
+              />
+              <img
+                src="public/external/vector4283-tth.svg"
+                alt="Vector4283"
+                class="intervet-clnica-landing-page-mobile-vector151"
+              />
+              <img
+                src="public/external/vector4284-mtj6.svg"
+                alt="Vector4284"
+                class="intervet-clnica-landing-page-mobile-vector152"
+              />
+              <img
+                src="public/external/vector4285-bo6b.svg"
+                alt="Vector4285"
+                class="intervet-clnica-landing-page-mobile-vector153"
+              />
+            </div>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-cuidado">
+            <span class="intervet-clnica-landing-page-mobile-text202">
+              <span>Cuidado Humanizado</span>
+            </span>
+            <span class="intervet-clnica-landing-page-mobile-text204">
+              <span>
+                Tratamos cada pet com amor e atenção, oferecendo todo o suporte
+                aos tutores nos momentos mais difíceis.
+              </span>
+            </span>
+            <div class="intervet-clnica-landing-page-mobile-iconcuidado">
+              <img
+                src="public/external/vector4319-c1vj.svg"
+                alt="Vector4319"
+                class="intervet-clnica-landing-page-mobile-vector154"
+              />
+              <img
+                src="public/external/vector4320-gkwe.svg"
+                alt="Vector4320"
+                class="intervet-clnica-landing-page-mobile-vector155"
+              />
+              <img
+                src="public/external/vector4321-xku9.svg"
+                alt="Vector4321"
+                class="intervet-clnica-landing-page-mobile-vector156"
+              />
+              <img
+                src="public/external/vector4322-c6z.svg"
+                alt="Vector4322"
+                class="intervet-clnica-landing-page-mobile-vector157"
+              />
+              <img
+                src="public/external/vector4323-ycsp.svg"
+                alt="Vector4323"
+                class="intervet-clnica-landing-page-mobile-vector158"
+              />
+              <img
+                src="public/external/vector4324-1rmi.svg"
+                alt="Vector4324"
+                class="intervet-clnica-landing-page-mobile-vector159"
+              />
+              <img
+                src="public/external/vector4325-hqy.svg"
+                alt="Vector4325"
+                class="intervet-clnica-landing-page-mobile-vector160"
+              />
+            </div>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-localizao">
+            <span class="intervet-clnica-landing-page-mobile-text206">
+              <span>Localização estratégica e fácil acesso</span>
+            </span>
+            <span class="intervet-clnica-landing-page-mobile-text208">
+              <span>&nbsp;No centro de Sete Lagoas.</span>
+            </span>
+            <div class="intervet-clnica-landing-page-mobile-iconlocalizao">
+              <img
+                src="public/external/vector4337-a8fs.svg"
+                alt="Vector4337"
+                class="intervet-clnica-landing-page-mobile-vector161"
+              />
+              <img
+                src="public/external/vector4338-0g6s.svg"
+                alt="Vector4338"
+                class="intervet-clnica-landing-page-mobile-vector162"
+              />
+              <img
+                src="public/external/vector4339-m89h.svg"
+                alt="Vector4339"
+                class="intervet-clnica-landing-page-mobile-vector163"
+              />
+              <img
+                src="public/external/vector4340-d2rj.svg"
+                alt="Vector4340"
+                class="intervet-clnica-landing-page-mobile-vector164"
+              />
+              <img
+                src="public/external/vector4341-yolm.svg"
+                alt="Vector4341"
+                class="intervet-clnica-landing-page-mobile-vector165"
+              />
+              <img
+                src="public/external/vector4342-wv6.svg"
+                alt="Vector4342"
+                class="intervet-clnica-landing-page-mobile-vector166"
+              />
+            </div>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-group21">
+            <div>
+              <div class="intervet-clnica-landing-page-mobile-maskgroup01">
+                <img
+                  src="public/external/consultas14412-eej-400w.png"
+                  alt="consultas14412"
+                  class="intervet-clnica-landing-page-mobile-consultas1"
+                />
+              </div>
+              <div class="intervet-clnica-landing-page-mobile-group7">
+                <span class="intervet-clnica-landing-page-mobile-text210">
+                  <span>Consultas Especializadas</span>
+                </span>
+                <span class="intervet-clnica-landing-page-mobile-text212">
+                  <span>
+                    Acesso a uma variedade de especialidades como clínica
+                    médica, endocrinologia, cardiologia, oftalmologia,
+                    ortopedia, gastroenterologia, nefrologia e mais, para
+                    atendimento integral.
+                  </span>
+                </span>
+                <span class="intervet-clnica-landing-page-mobile-text214">
+                  <span>
+                    Todas as consultas são agendadas para melhor atendimento e
+                    evitar fila de espera.
+                  </span>
+                </span>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-group">
+              <img
+                src="public/external/vector1415-zkjm.svg"
+                alt="Vector1415"
+                class="intervet-clnica-landing-page-mobile-vector167"
+              />
+              <img
+                src="public/external/vector1415-rl3m.svg"
+                alt="Vector1415"
+                class="intervet-clnica-landing-page-mobile-vector168"
+              />
+              <img
+                src="public/external/vector1415-afl4.svg"
+                alt="Vector1415"
+                class="intervet-clnica-landing-page-mobile-vector169"
+              />
+              <img
+                src="public/external/vector1415-qy5.svg"
+                alt="Vector1415"
+                class="intervet-clnica-landing-page-mobile-vector170"
+              />
+              <img
+                src="public/external/vector1415-eymp.svg"
+                alt="Vector1415"
+                class="intervet-clnica-landing-page-mobile-vector171"
+              />
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-group1">
+              <img
+                src="public/external/vector1415-obde.svg"
+                alt="Vector1415"
+                class="intervet-clnica-landing-page-mobile-vector172"
+              />
+              <img
+                src="public/external/vector1415-p5zb.svg"
+                alt="Vector1415"
+                class="intervet-clnica-landing-page-mobile-vector173"
+              />
+              <img
+                src="public/external/vector1415-1ou.svg"
+                alt="Vector1415"
+                class="intervet-clnica-landing-page-mobile-vector174"
+              />
+              <img
+                src="public/external/vector1416-1hcb.svg"
+                alt="Vector1416"
+                class="intervet-clnica-landing-page-mobile-vector175"
+              />
+              <img
+                src="public/external/vector1416-v5n3.svg"
+                alt="Vector1416"
+                class="intervet-clnica-landing-page-mobile-vector176"
+              />
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-group2">
+              <img
+                src="public/external/vector1416-gwml.svg"
+                alt="Vector1416"
+                class="intervet-clnica-landing-page-mobile-vector177"
+              />
+              <img
+                src="public/external/vector1416-44v.svg"
+                alt="Vector1416"
+                class="intervet-clnica-landing-page-mobile-vector178"
+              />
+              <img
+                src="public/external/vector1416-g2ar.svg"
+                alt="Vector1416"
+                class="intervet-clnica-landing-page-mobile-vector179"
+              />
+              <img
+                src="public/external/vector1416-2qmd.svg"
+                alt="Vector1416"
+                class="intervet-clnica-landing-page-mobile-vector180"
+              />
+              <img
+                src="public/external/vector1416-fuxn.svg"
+                alt="Vector1416"
+                class="intervet-clnica-landing-page-mobile-vector181"
+              />
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-group3">
+              <img
+                src="public/external/vector1416-hgz9.svg"
+                alt="Vector1416"
+                class="intervet-clnica-landing-page-mobile-vector182"
+              />
+              <img
+                src="public/external/vector1417-6x1.svg"
+                alt="Vector1417"
+                class="intervet-clnica-landing-page-mobile-vector183"
+              />
+              <img
+                src="public/external/vector1417-ucrf.svg"
+                alt="Vector1417"
+                class="intervet-clnica-landing-page-mobile-vector184"
+              />
+              <img
+                src="public/external/vector1417-pxj9.svg"
+                alt="Vector1417"
+                class="intervet-clnica-landing-page-mobile-vector185"
+              />
+              <img
+                src="public/external/vector1417-etk2.svg"
+                alt="Vector1417"
+                class="intervet-clnica-landing-page-mobile-vector186"
+              />
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-group4">
+              <img
+                src="public/external/vector1417-cf6.svg"
+                alt="Vector1417"
+                class="intervet-clnica-landing-page-mobile-vector187"
+              />
+              <img
+                src="public/external/vector1417-xy8.svg"
+                alt="Vector1417"
+                class="intervet-clnica-landing-page-mobile-vector188"
+              />
+              <img
+                src="public/external/vector1417-a8bq.svg"
+                alt="Vector1417"
+                class="intervet-clnica-landing-page-mobile-vector189"
+              />
+              <img
+                src="public/external/vector1417-uobp.svg"
+                alt="Vector1417"
+                class="intervet-clnica-landing-page-mobile-vector190"
+              />
+              <img
+                src="public/external/vector1417-lzwj.svg"
+                alt="Vector1417"
+                class="intervet-clnica-landing-page-mobile-vector191"
+              />
+            </div>
+            <div>
+              <img
+                src="public/external/vector1418-qfwj.svg"
+                alt="Vector1418"
+                class="intervet-clnica-landing-page-mobile-vector192"
+              />
+              <img
+                src="public/external/vector1418-9bjk.svg"
+                alt="Vector1418"
+                class="intervet-clnica-landing-page-mobile-vector193"
+              />
+              <img
+                src="public/external/vector1418-kh1r.svg"
+                alt="Vector1418"
+                class="intervet-clnica-landing-page-mobile-vector194"
+              />
+              <img
+                src="public/external/vector1418-fnny.svg"
+                alt="Vector1418"
+                class="intervet-clnica-landing-page-mobile-vector195"
+              />
+              <img
+                src="public/external/vector1418-k0b.svg"
+                alt="Vector1418"
+                class="intervet-clnica-landing-page-mobile-vector196"
+              />
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-group6">
+              <div class="intervet-clnica-landing-page-mobile-maskgroup02">
+                <img
+                  src="public/external/consultas14439-wx3-400w.png"
+                  alt="consultas14439"
+                  class="intervet-clnica-landing-page-mobile-consultas11"
+                />
+              </div>
+              <div class="intervet-clnica-landing-page-mobile-group71">
+                <span class="intervet-clnica-landing-page-mobile-text216">
+                  <span>Castração, Vermífugo</span>
+                  <br />
+                  <span>e Leishmaniose</span>
+                </span>
+                <span class="intervet-clnica-landing-page-mobile-text220">
+                  <span>
+                    Proteção abrangente contra parasitas, controle de natalidade
+                    e prevenção de doenças graves para seu pet.
+                  </span>
+                </span>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-group8">
+              <div class="intervet-clnica-landing-page-mobile-maskgroup03">
+                <img
+                  src="public/external/consultas14454-xpu-400w.png"
+                  alt="consultas14454"
+                  class="intervet-clnica-landing-page-mobile-consultas12"
+                />
+              </div>
+              <div class="intervet-clnica-landing-page-mobile-group72">
+                <span class="intervet-clnica-landing-page-mobile-text222">
+                  <span>Serviços Complementares</span>
+                </span>
+                <span class="intervet-clnica-landing-page-mobile-text224">
+                  <span>
+                    Além da clínica, o seu pet ainda conta com completo Pet
+                    Shop, Banho e Tosa, Táxi Dog,&nbsp; Atestados para viagens e
+                    Microchipagem.
+                  </span>
+                </span>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-group5">
+              <div class="intervet-clnica-landing-page-mobile-maskgroup04">
+                <img
+                  src="public/external/closeupveterinarydoctortakingcarepet16538-z49p-300h.png"
+                  alt="closeupveterinarydoctortakingcarepet16538"
+                  class="intervet-clnica-landing-page-mobile-closeupveterinarydoctortakingcarepet1"
+                />
+              </div>
+              <div class="intervet-clnica-landing-page-mobile-group61">
+                <span class="intervet-clnica-landing-page-mobile-text226">
+                  <span>Exames</span>
+                  <br />
+                  <span>Avançados</span>
+                </span>
+                <span class="intervet-clnica-landing-page-mobile-text230">
+                  <span>
+                    Somos parceiros do maior laboratório veterinário do Brasil.
+                    Diagnóstico preciso com uma ampla gama de exames, desde os
+                    rotineiros até os mais complexos.
+                  </span>
+                </span>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-group73">
+              <div class="intervet-clnica-landing-page-mobile-maskgroup05">
+                <img
+                  src="public/external/consultas14447-ss9h-400w.png"
+                  alt="consultas14447"
+                  class="intervet-clnica-landing-page-mobile-consultas13"
+                />
+              </div>
+              <div class="intervet-clnica-landing-page-mobile-group62">
+                <span class="intervet-clnica-landing-page-mobile-text232">
+                  <span>Cirurgia</span>
+                  <br />
+                  <span>e Internação</span>
+                </span>
+                <span class="intervet-clnica-landing-page-mobile-text236">
+                  <span>
+                    Infraestrutura avançada e cuidado contínuo para
+                    procedimentos cirúrgicos e casos de internação.
+                  </span>
+                </span>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-group9">
+              <div class="intervet-clnica-landing-page-mobile-maskgroup06">
+                <img
+                  src="public/external/consultas14677-u6vd-300w.png"
+                  alt="consultas14677"
+                  class="intervet-clnica-landing-page-mobile-consultas14"
+                />
+              </div>
+              <div class="intervet-clnica-landing-page-mobile-group63">
+                <span class="intervet-clnica-landing-page-mobile-text238">
+                  <span>
+                    Infraestrutura avançada e cuidado contínuo para
+                    procedimentos cirúrgicos e casos de internação.
+                  </span>
+                </span>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-group10">
+              <div class="intervet-clnica-landing-page-mobile-maskgroup07">
+                <img
+                  src="public/external/consultas14684-gmbk-500w.png"
+                  alt="consultas14684"
+                  class="intervet-clnica-landing-page-mobile-consultas15"
+                />
+              </div>
+              <div class="intervet-clnica-landing-page-mobile-group64">
+                <span class="intervet-clnica-landing-page-mobile-text240">
+                  <span>Farmácia</span>
+                  <br />
+                  <span>Veterinária</span>
+                </span>
+                <span class="intervet-clnica-landing-page-mobile-text244">
+                  <span>
+                    Completa e com amplas opções de medicamentos para atender
+                    aos nossos pacientes e clientes de toda a região.
+                  </span>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-group14">
+            <div class="intervet-clnica-landing-page-mobile-maskgroup08">
+              <img
+                src="public/external/rectangle151423-xhb-400w.png"
+                alt="Rectangle151423"
+                class="intervet-clnica-landing-page-mobile-rectangle151"
+              />
+              <img
+                src="public/external/mediumshotsmileydoctorcheckingdog11422-s0k-500w.png"
+                alt="mediumshotsmileydoctorcheckingdog11422"
+                class="intervet-clnica-landing-page-mobile-mediumshotsmileydoctorcheckingdog1"
+              />
+            </div>
+            <img
+              src="public/external/vector1423-1malj.svg"
+              alt="Vector1423"
+              class="intervet-clnica-landing-page-mobile-vector197"
+            />
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-group15">
+            <img
+              src="public/external/ellipse11424-5ebl-400w.png"
+              alt="Ellipse11424"
+              class="intervet-clnica-landing-page-mobile-ellipse1"
+            />
+            <div class="intervet-clnica-landing-page-mobile-maskgroup09">
+              <img
+                src="public/external/dogcat12024-h2kl-400h.png"
+                alt="dogcat12024"
+                class="intervet-clnica-landing-page-mobile-dogcat1"
+              />
+            </div>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-frame1">
+            <div class="intervet-clnica-landing-page-mobile-pergunta1">
+              <div class="intervet-clnica-landing-page-mobile-headlineandicon">
+                <span class="intervet-clnica-landing-page-mobile-text246">
+                  <span>
+                    Posso confiar na EXPERIÊNCIA DOS VETERINÁRIOS da sua
+                    clínica?
+                  </span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button">
+                  <img
+                    src="public/external/ellipse4i352-oqx-200h.png"
+                    alt="Ellipse4I352"
+                    class="intervet-clnica-landing-page-mobile-ellipse4"
+                  />
+                  <img
+                    src="public/external/vector2i352-rii.svg"
+                    alt="Vector2I352"
+                    class="intervet-clnica-landing-page-mobile-vector2"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta2">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon01"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text248">
+                  <span>
+                    Os veterinários da InterVet possuem ESPECIALIZAÇÕES?
+                  </span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button01">
+                  <img
+                    src="public/external/ellipse4i359-zht6-200h.png"
+                    alt="Ellipse4I359"
+                    class="intervet-clnica-landing-page-mobile-ellipse401"
+                  />
+                  <img
+                    src="public/external/vector2i359-0i7k.svg"
+                    alt="Vector2I359"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta3">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon02"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text250">
+                  <span>
+                    Vocês têm programas especiais para CASTRAÇÃO e PROFILAXIA
+                    ORAL
+                  </span>
+                  <br />
+                  <span>(ex: tártaro e gengivite)?</span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button02">
+                  <img
+                    src="public/external/ellipse4i359-egtm-200h.png"
+                    alt="Ellipse4I359"
+                    class="intervet-clnica-landing-page-mobile-ellipse402"
+                  />
+                  <img
+                    src="public/external/vector2i359-3tn.svg"
+                    alt="Vector2I359"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta4">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon03"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text254">
+                  <span>Como VERMIFUGAR meu cão corretamente?</span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button03">
+                  <img
+                    src="public/external/ellipse4i351-n37j-200h.png"
+                    alt="Ellipse4I351"
+                    class="intervet-clnica-landing-page-mobile-ellipse403"
+                  />
+                  <img
+                    src="public/external/vector2i351-00g.svg"
+                    alt="Vector2I351"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta5">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon04"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text256">
+                  <span>Qual a VACINAÇÃO ideal</span>
+                  <br />
+                  <span>para meu cão?</span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button04">
+                  <img
+                    src="public/external/ellipse4i351-uh68-200h.png"
+                    alt="Ellipse4I351"
+                    class="intervet-clnica-landing-page-mobile-ellipse404"
+                  />
+                  <img
+                    src="public/external/vector2i351-kt5.svg"
+                    alt="Vector2I351"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta6">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon05"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text260">
+                  <span>Como prevenir a LEISHMANIOSE</span>
+                  <br />
+                  <span>em pets?</span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button05">
+                  <img
+                    src="public/external/ellipse4i351-73hp-200h.png"
+                    alt="Ellipse4I351"
+                    class="intervet-clnica-landing-page-mobile-ellipse405"
+                  />
+                  <img
+                    src="public/external/vector2i351-xq79.svg"
+                    alt="Vector2I351"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta7">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon06"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text264">
+                  <span>Existe tratamento para</span>
+                  <br />
+                  <span>LEISHMANIOSE na InterVet?</span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button06">
+                  <img
+                    src="public/external/ellipse4i351-x13c-200h.png"
+                    alt="Ellipse4I351"
+                    class="intervet-clnica-landing-page-mobile-ellipse406"
+                  />
+                  <img
+                    src="public/external/vector2i351-ys0i.svg"
+                    alt="Vector2I351"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta8">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon07"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text268">
+                  <span>
+                    A Intervet atende CLIENTES DE OUTRAS REGIÕES além de Sete
+                    Lagoas?
+                  </span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button07">
+                  <img
+                    src="public/external/ellipse4i351-e3lr-200h.png"
+                    alt="Ellipse4I351"
+                    class="intervet-clnica-landing-page-mobile-ellipse407"
+                  />
+                  <img
+                    src="public/external/vector2i351-pxm.svg"
+                    alt="Vector2I351"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta9">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon08"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text270">
+                  <span>Os tratamentos cirúrgicos</span>
+                  <br />
+                  <span>e internações podem ser parcelados?</span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button08">
+                  <img
+                    src="public/external/ellipse4i351-hpco-200h.png"
+                    alt="Ellipse4I351"
+                    class="intervet-clnica-landing-page-mobile-ellipse408"
+                  />
+                  <img
+                    src="public/external/vector2i351-nlii.svg"
+                    alt="Vector2I351"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta10">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon09"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text274">
+                  <span>Vocês têm algum tipo de CASHBACK?</span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button09">
+                  <img
+                    src="public/external/ellipse4i351-yhbo-200h.png"
+                    alt="Ellipse4I351"
+                    class="intervet-clnica-landing-page-mobile-ellipse409"
+                  />
+                  <img
+                    src="public/external/vector2i351-ihzo.svg"
+                    alt="Vector2I351"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta11">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon10"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text276">
+                  <span>Vocês oferecem algum tipo</span>
+                  <br />
+                  <span>de plano de saúde para pets?</span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button10">
+                  <img
+                    src="public/external/ellipse4i351-g8fu-200h.png"
+                    alt="Ellipse4I351"
+                    class="intervet-clnica-landing-page-mobile-ellipse410"
+                  />
+                  <img
+                    src="public/external/vector2i351-bda8.svg"
+                    alt="Vector2I351"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta12">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon11"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text280">
+                  <span>Vocês tratam apenas cães e gatos?</span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button11">
+                  <img
+                    src="public/external/ellipse4i351-i5ap-200h.png"
+                    alt="Ellipse4I351"
+                    class="intervet-clnica-landing-page-mobile-ellipse411"
+                  />
+                  <img
+                    src="public/external/vector2i351-iass.svg"
+                    alt="Vector2I351"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta13">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon12"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text282">
+                  <span>Como posso saber se meu pet</span>
+                  <br />
+                  <span>está doente?</span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button12">
+                  <img
+                    src="public/external/ellipse4i351-0swq-200h.png"
+                    alt="Ellipse4I351"
+                    class="intervet-clnica-landing-page-mobile-ellipse412"
+                  />
+                  <img
+                    src="public/external/vector2i351-x54.svg"
+                    alt="Vector2I351"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta14">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon13"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text286">
+                  <span>Como posso preparar meu pet</span>
+                  <br />
+                  <span>para a CONSULTA?</span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button13">
+                  <img
+                    src="public/external/ellipse4i351-7izi-200h.png"
+                    alt="Ellipse4I351"
+                    class="intervet-clnica-landing-page-mobile-ellipse413"
+                  />
+                  <img
+                    src="public/external/vector2i351-ihv.svg"
+                    alt="Vector2I351"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta15">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon14"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text290">
+                  <span>Preciso AGENDAR a consulta?</span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button14">
+                  <img
+                    src="public/external/ellipse4i351-x47l-200h.png"
+                    alt="Ellipse4I351"
+                    class="intervet-clnica-landing-page-mobile-ellipse414"
+                  />
+                  <img
+                    src="public/external/vector2i351-q1i4.svg"
+                    alt="Vector2I351"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-pergunta16">
+              <div
+                class="intervet-clnica-landing-page-mobile-headlineandicon15"
+              >
+                <span class="intervet-clnica-landing-page-mobile-text292">
+                  <span>Qual é a política de CANCELAMENTO de consultas?</span>
+                </span>
+                <div class="intervet-clnica-landing-page-mobile-button15">
+                  <img
+                    src="public/external/ellipse4i351-x6g-200h.png"
+                    alt="Ellipse4I351"
+                    class="intervet-clnica-landing-page-mobile-ellipse415"
+                  />
+                  <img
+                    src="public/external/vector2i351-9xwf.svg"
+                    alt="Vector2I351"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-maskgroup10">
+            <img
+              src="public/external/image921b64cdeeb3704e093f9873c82c015713511-p8h6-300h.png"
+              alt="IMAGE921b64cdeeb3704e093f9873c82c015713511"
+              class="intervet-clnica-landing-page-mobile-image921b64cdeeb3704e093f9873c82c01571"
+            />
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-maps-full-map">
+            <div
+              class="intervet-clnica-landing-page-mobile-maps-zoom-levels2-city"
+            >
+              <img
+                src="public/external/mapofbirminghamcityi351-ifq-1100w.png"
+                alt="MapofBirminghamCityI351"
+                class="intervet-clnica-landing-page-mobile-mapof-birmingham-city"
+              />
+            </div>
+            <div
+              class="intervet-clnica-landing-page-mobile-controls-google-maps-byline"
+            >
+              <img
+                src="public/external/rectangle3i351-txsb-200h.png"
+                alt="Rectangle3I351"
+                class="intervet-clnica-landing-page-mobile-rectangle3"
+              />
+              <span class="intervet-clnica-landing-page-mobile-text294">
+                <span>Map data @2019 Google</span>
+              </span>
+              <img
+                src="public/external/rectangle31i351-azne-200h.png"
+                alt="Rectangle31I351"
+                class="intervet-clnica-landing-page-mobile-rectangle31"
+              />
+              <span class="intervet-clnica-landing-page-mobile-text296">
+                <span>Terms of Use</span>
+              </span>
+              <img
+                src="public/external/rectangle32i351-kh3y-200h.png"
+                alt="Rectangle32I351"
+                class="intervet-clnica-landing-page-mobile-rectangle32"
+              />
+              <span class="intervet-clnica-landing-page-mobile-text298">
+                <span>Report a map error</span>
+              </span>
+            </div>
+            <div
+              class="intervet-clnica-landing-page-mobile-controls-google-logo-color"
+            >
+              <div class="intervet-clnica-landing-page-mobile-google-logo">
+                <img
+                  src="public/external/vectori351-kdfj.svg"
+                  alt="VectorI351"
+                  class="intervet-clnica-landing-page-mobile-vector198"
+                />
+                <img
+                  src="public/external/vectori351-dt1p.svg"
+                  alt="VectorI351"
+                  class="intervet-clnica-landing-page-mobile-vector199"
+                />
+                <img
+                  src="public/external/vectori351-1zhb.svg"
+                  alt="VectorI351"
+                  class="intervet-clnica-landing-page-mobile-vector200"
+                />
+                <img
+                  src="public/external/vectori351-xu8c.svg"
+                  alt="VectorI351"
+                  class="intervet-clnica-landing-page-mobile-vector201"
+                />
+                <img
+                  src="public/external/vectori351-wux6.svg"
+                  alt="VectorI351"
+                  class="intervet-clnica-landing-page-mobile-vector202"
+                />
+                <img
+                  src="public/external/vectori351-he4d.svg"
+                  alt="VectorI351"
+                  class="intervet-clnica-landing-page-mobile-vector203"
+                />
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-controls">
+              <div
+                class="intervet-clnica-landing-page-mobile-controls-street-view"
+              >
+                <img
+                  src="public/external/rectanglei351-kum8-200h.png"
+                  alt="RectangleI351"
+                  class="intervet-clnica-landing-page-mobile-rectangle"
+                />
+                <img
+                  src="public/external/pegmanoffscreen2xi351-r0ow-200w.png"
+                  alt="pegmanoffscreen2xI351"
+                  class="intervet-clnica-landing-page-mobile-pegmanoffscreen2x"
+                />
+              </div>
+              <div
+                class="intervet-clnica-landing-page-mobile-controls-zoom-controls"
+              >
+                <img
+                  src="public/external/rectanglei351-wvp-200w.png"
+                  alt="RectangleI351"
+                  class="intervet-clnica-landing-page-mobile-rectangle1"
+                />
+                <img
+                  src="public/external/unioni351-l0e7.svg"
+                  alt="UnionI351"
+                  class="intervet-clnica-landing-page-mobile-union"
+                />
+                <img
+                  src="public/external/unioni351-lg9.svg"
+                  alt="UnionI351"
+                  class="intervet-clnica-landing-page-mobile-union1"
+                />
+                <img
+                  src="public/external/rectangle2i351-5t7b-200h.png"
+                  alt="Rectangle2I351"
+                />
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-controls-map-type">
+              <img
+                src="public/external/rectanglei351-ev6i-200h.png"
+                alt="RectangleI351"
+                class="intervet-clnica-landing-page-mobile-rectangle2"
+              />
+              <span class="intervet-clnica-landing-page-mobile-text300">
+                <span>Satellite</span>
+              </span>
+              <img
+                src="public/external/linei351-slbl.svg"
+                alt="LineI351"
+                class="intervet-clnica-landing-page-mobile-line"
+              />
+              <span class="intervet-clnica-landing-page-mobile-text302">
+                <span>Map</span>
+              </span>
+            </div>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-group131">
+            <div class="intervet-clnica-landing-page-mobile-cta14">
+              <div class="intervet-clnica-landing-page-mobile-group17">
+                <div class="intervet-clnica-landing-page-mobile-icontel7">
+                  <img
+                    src="public/external/vector3512-ubef.svg"
+                    alt="Vector3512"
+                    class="intervet-clnica-landing-page-mobile-vector204"
+                  />
+                  <img
+                    src="public/external/vector3512-ufy.svg"
+                    alt="Vector3512"
+                    class="intervet-clnica-landing-page-mobile-vector205"
+                  />
+                  <img
+                    src="public/external/vector3512-nj5.svg"
+                    alt="Vector3512"
+                    class="intervet-clnica-landing-page-mobile-vector206"
+                  />
+                  <img
+                    src="public/external/vector3512-dumu.svg"
+                    alt="Vector3512"
+                    class="intervet-clnica-landing-page-mobile-vector207"
+                  />
+                  <img
+                    src="public/external/vector3512-1i5f.svg"
+                    alt="Vector3512"
+                    class="intervet-clnica-landing-page-mobile-vector208"
+                  />
+                  <img
+                    src="public/external/vector3512-h6r6.svg"
+                    alt="Vector3512"
+                    class="intervet-clnica-landing-page-mobile-vector209"
+                  />
+                  <img
+                    src="public/external/vector3512-6k5l.svg"
+                    alt="Vector3512"
+                    class="intervet-clnica-landing-page-mobile-vector210"
+                  />
+                </div>
+                <span class="intervet-clnica-landing-page-mobile-text304">
+                  <span class="intervet-clnica-landing-page-mobile-text305">
+                    Ligue agora
+                  </span>
+                  <br />
+                  <span
+                    class="intervet-clnica-landing-page-mobile-text307"
+                  ></span>
+                  <span>31 3772-1042</span>
+                </span>
+              </div>
+            </div>
+            <div class="intervet-clnica-landing-page-mobile-cta15">
+              <div class="intervet-clnica-landing-page-mobile-group26">
+                <span class="intervet-clnica-landing-page-mobile-text309">
+                  <span class="intervet-clnica-landing-page-mobile-text310">
+                    chame no whatsapp
+                  </span>
+                  <br />
+                  <span
+                    class="intervet-clnica-landing-page-mobile-text312"
+                  ></span>
+                  <span>31 9 8895-0544</span>
+                </span>
+                <img
+                  src="public/external/vector3512-hlg.svg"
+                  alt="Vector3512"
+                  class="intervet-clnica-landing-page-mobile-vector211"
+                />
+              </div>
+            </div>
+            <span class="intervet-clnica-landing-page-mobile-text314">
+              <span>Quero marcar uma consulta</span>
+            </span>
+          </div>
+          <div class="intervet-clnica-landing-page-mobile-group20">
+            <span class="intervet-clnica-landing-page-mobile-text316">
+              <span>
+                Horário de funcionamento da clínica médica veterinária:
+              </span>
+            </span>
+            <span class="intervet-clnica-landing-page-mobile-text318">
+              <span>Emergência 24h</span>
+            </span>
+            <span class="intervet-clnica-landing-page-mobile-text320">
+              <span>Segunda a Sexta: 08:00 às 18:00</span>
+              <br />
+              <span>Sábado: 08:00 às 13:00</span>
+            </span>
+            <span class="intervet-clnica-landing-page-mobile-text324">
+              <span>(Mediante contato prévio via telefone)</span>
+            </span>
+            <div class="intervet-clnica-landing-page-mobile-group19">
+              <div class="intervet-clnica-landing-page-mobile-cta16">
+                <div class="intervet-clnica-landing-page-mobile-group18">
+                  <div class="intervet-clnica-landing-page-mobile-icontel8">
+                    <img
+                      src="public/external/vector3512-aq8.svg"
+                      alt="Vector3512"
+                      class="intervet-clnica-landing-page-mobile-vector212"
+                    />
+                    <img
+                      src="public/external/vector3512-gufn.svg"
+                      alt="Vector3512"
+                      class="intervet-clnica-landing-page-mobile-vector213"
+                    />
+                    <img
+                      src="public/external/vector3512-qlcp.svg"
+                      alt="Vector3512"
+                      class="intervet-clnica-landing-page-mobile-vector214"
+                    />
+                    <img
+                      src="public/external/vector3512-tcbo.svg"
+                      alt="Vector3512"
+                      class="intervet-clnica-landing-page-mobile-vector215"
+                    />
+                    <img
+                      src="public/external/vector3512-1lmh.svg"
+                      alt="Vector3512"
+                      class="intervet-clnica-landing-page-mobile-vector216"
+                    />
+                    <img
+                      src="public/external/vector3512-f70a.svg"
+                      alt="Vector3512"
+                      class="intervet-clnica-landing-page-mobile-vector217"
+                    />
+                    <img
+                      src="public/external/vector3512-9alf.svg"
+                      alt="Vector3512"
+                      class="intervet-clnica-landing-page-mobile-vector218"
+                    />
+                  </div>
+                  <span class="intervet-clnica-landing-page-mobile-text326">
+                    <span class="intervet-clnica-landing-page-mobile-text327">
+                      Ligue agora
+                    </span>
+                    <br />
+                    <span
+                      class="intervet-clnica-landing-page-mobile-text329"
+                    ></span>
+                    <span>31 3772-1042</span>
+                  </span>
+                </div>
+              </div>
+              <div class="intervet-clnica-landing-page-mobile-cta17">
+                <div class="intervet-clnica-landing-page-mobile-group27">
+                  <span class="intervet-clnica-landing-page-mobile-text331">
+                    <span class="intervet-clnica-landing-page-mobile-text332">
+                      chame no whatsapp
+                    </span>
+                    <br />
+                    <span
+                      class="intervet-clnica-landing-page-mobile-text334"
+                    ></span>
+                    <span>31 9 8895-0544</span>
+                  </span>
+                  <img
+                    src="public/external/vector3512-ourp.svg"
+                    alt="Vector3512"
+                    class="intervet-clnica-landing-page-mobile-vector219"
+                  />
+                </div>
+              </div>
+            </div>
+            <span class="intervet-clnica-landing-page-mobile-text336">
+              <span>Entre em contato:</span>
+            </span>
+          </div>
+          <span class="intervet-clnica-landing-page-mobile-text338">
+            <span>Nossos Serviços</span>
+            <br />
+            <span>Especialistas</span>
+            <br />
+            <span>Nossa Estrutura</span>
+            <br />
+            <span>Emergência 24h</span>
+            <br />
+            <span>Localização</span>
+            <br />
+            <span>Quem Somos</span>
+            <br />
+            <span></span>
+          </span>
+          <div class="intervet-clnica-landing-page-mobile-menuabrir">
+            <img
+              src="public/external/vector262-yzsq.svg"
+              alt="Vector262"
+              class="intervet-clnica-landing-page-mobile-vector220"
+            />
+          </div>
+          <img
+            src="public/external/ellipse53519-zxz9-1100h.png"
+            alt="Ellipse53519"
+            class="intervet-clnica-landing-page-mobile-ellipse5"
+          />
+          <span class="intervet-clnica-landing-page-mobile-text352">
+            <span class="intervet-clnica-landing-page-mobile-text353">
+              Centro Veterinário InterVet
+            </span>
+            <br />
+            <span class="intervet-clnica-landing-page-mobile-text355"></span>
+            <span>Centro de Sete Lagoas - MG</span>
+          </span>
         </div>
-    </section>
-
-    <footer>
-        <div class="container">
-            <p>&copy; 2024 Minha Empresa. Todos os direitos reservados.</p>
-        </div>
-    </footer>
-</body>
+      </div>
+    </div>
+  </body>
 </html>
