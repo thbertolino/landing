@@ -6,7 +6,10 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
+  overflow-x: hidden; /* Bloqueia a rolagem horizontal */
+  overflow-y: auto;   /* Permite a rolagem vertical */
 }
+
 .intervet-clnica-landing-page-mobile-intervet-clnica-landing-page-mobile {
   width: 100%;
   height: 11251px;
@@ -45,6 +48,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(255, 255, 255, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group1 {
   top: 10.397242546081543px;
@@ -57,8 +61,8 @@
   flex-shrink: 1;
 }
 .intervet-clnica-landing-page-mobile-icontel {
-  top: 0px;
-  left: 0px;
+  top: 9px;
+  left: 9px;
   width: 27.710880279541016px;
   height: 27.7281551361084px;
   display: flex;
@@ -116,8 +120,8 @@
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-text {
-  top: 1.1552734375px;
-  left: 35.8292236328125px;
+  top: 12px;
+  left: 50px;
   color: rgba(68, 170, 75, 1);
   height: auto;
   position: absolute;
@@ -146,6 +150,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(68, 170, 75, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-group2 {
   top: 10.3984375px;
@@ -158,8 +163,8 @@
   flex-shrink: 1;
 }
 .intervet-clnica-landing-page-mobile-text005 {
-  top: 1.1552734375px;
-  left: 33.45263671875px;
+  top: 12px;
+  left: 50px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -179,8 +184,8 @@
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-vector007 {
-  top: 0px;
-  left: 0px;
+  top: 9px;
+  left: 9px;
   width: 28px;
   height: 28px;
   position: absolute;
@@ -223,6 +228,318 @@
   position: absolute;
   border-radius: 0 0 160px 160px;
 }
+.intervet-clnica-landing-page-mobile-depoimentos {
+  top: 6573.18603515625px;
+  left: 0px;
+  width: 430px;
+  height: 275px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-depoimentos1 {
+  top: -32px;
+  left: 53px;
+  width: 1475px;
+  height: 210px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-group101 {
+  top: 0px;
+  left: 0px;
+  width: 325px;
+  height: 269px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-rectangle161 {
+  top: 35px;
+  left: 0px;
+  width: 325px;
+  height: 234px;
+  position: absolute;
+  border-radius: 25px;
+}
+.intervet-clnica-landing-page-mobile-maskgroup {
+  top: 0px;
+  left: 27.111328125px;
+  width: 69.52304077148438px;
+  height: 69.52304077148438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse3 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-mediumshotsmileywomanposing1 {
+  top: -10.907073974609375px;
+  left: -15.763313293457031px;
+  width: 101px;
+  height: 152px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text012 {
+  top: 229.17041015625px;
+  left: 27.111328125px;
+  color: rgba(157, 157, 157, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text014 {
+  top: 88px;
+  left: 27px;
+  color: rgba(157, 157, 157, 1);
+  width: 271px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group21 {
+  top: 0px;
+  left: 365px;
+  width: 326px;
+  height: 269px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-rectangle162 {
+  top: 35px;
+  left: 0px;
+  width: 326px;
+  height: 234px;
+  position: absolute;
+  border-radius: 25px;
+}
+.intervet-clnica-landing-page-mobile-maskgroup01 {
+  top: 0px;
+  left: 27.4794921875px;
+  width: 69.52304077148438px;
+  height: 69.52304077148438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse31 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-mediumshotsmileywomanposing11 {
+  top: -15.95923900604248px;
+  left: -27.111328125px;
+  width: 101px;
+  height: 152px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text016 {
+  top: 229.17041015625px;
+  left: 27.4794921875px;
+  color: rgba(157, 157, 157, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text018 {
+  top: 88px;
+  left: 27px;
+  color: rgba(157, 157, 157, 1);
+  width: 272px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group3 {
+  top: 0px;
+  left: 731px;
+  width: 325px;
+  height: 269px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-rectangle163 {
+  top: 35px;
+  left: 0px;
+  width: 325px;
+  height: 234px;
+  position: absolute;
+  border-radius: 25px;
+}
+.intervet-clnica-landing-page-mobile-maskgroup02 {
+  top: 0px;
+  left: 26.84765625px;
+  width: 69.52304077148438px;
+  height: 69.52304077148438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse32 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-mediumshotsmileywomanposing12 {
+  top: -28.477691650390625px;
+  left: -22.696044921875px;
+  width: 92px;
+  height: 138px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text020 {
+  top: 229.17041015625px;
+  left: 26.84765625px;
+  color: rgba(157, 157, 157, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text022 {
+  top: 88px;
+  left: 27px;
+  color: rgba(157, 157, 157, 1);
+  width: 271px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-group4 {
+  top: 0px;
+  left: 1096px;
+  width: 325px;
+  height: 269px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-rectangle164 {
+  top: 35px;
+  left: 0px;
+  width: 325px;
+  height: 234px;
+  position: absolute;
+  border-radius: 25px;
+}
+.intervet-clnica-landing-page-mobile-maskgroup03 {
+  top: 0px;
+  left: 27.2158203125px;
+  width: 69.52304077148438px;
+  height: 69.52304077148438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.intervet-clnica-landing-page-mobile-ellipse33 {
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-mediumshotsmileywomanposing13 {
+  top: -10.907073974609375px;
+  left: -0.03329727053642273px;
+  width: 70px;
+  height: 104px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-text024 {
+  top: 229.17041015625px;
+  left: 27.2158203125px;
+  color: rgba(157, 157, 157, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text026 {
+  top: 88px;
+  left: 27px;
+  color: rgba(157, 157, 157, 1);
+  width: 271px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 111.37000322341919%;
+  font-stretch: normal;
+  text-decoration: none;
+}
 .intervet-clnica-landing-page-mobile-rectangle14 {
   top: 6407px;
   left: 430px;
@@ -263,24 +580,16 @@
   position: absolute;
   border-radius: 0 0 160px 160px;
 }
-.intervet-clnica-landing-page-mobile-maskgroup {
+.intervet-clnica-landing-page-mobile-maskgroup04 {
   top: 0px;
-  left: 1px;
+  left: 1.1368683772161603e-13px;
   width: 430px;
   height: 662px;
   display: flex;
   overflow: hidden;
   position: absolute;
   align-items: flex-start;
-  flex-shrink: 0;
-}
-.intervet-clnica-landing-page-mobile-rectangle8 {
-  top: 0px;
-  left: 0px;
-  width: 430px;
-  height: 662px;
-  position: absolute;
-  border-radius: 0 0 160px 160px;
+  flex-shrink: 1;
 }
 .intervet-clnica-landing-page-mobile-image2medicos1 {
   top: 270px;
@@ -600,7 +909,7 @@
   height: 1px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text012 {
+.intervet-clnica-landing-page-mobile-text028 {
   top: 109px;
   left: 56px;
   color: rgba(255, 255, 255, 1);
@@ -616,10 +925,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text013 {
+.intervet-clnica-landing-page-mobile-text029 {
   color: rgba(255, 255, 255, 1);
 }
-.intervet-clnica-landing-page-mobile-text015 {
+.intervet-clnica-landing-page-mobile-text031 {
   color: rgba(255, 255, 255, 1);
 }
 .intervet-clnica-landing-page-mobile-cta02 {
@@ -632,8 +941,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(239, 181, 81, 1);
+  border-radius: 50px
 }
-.intervet-clnica-landing-page-mobile-text019 {
+.intervet-clnica-landing-page-mobile-text035 {
   top: 11px;
   left: 30px;
   color: rgba(255, 255, 255, 1);
@@ -649,7 +959,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text023 {
+.intervet-clnica-landing-page-mobile-text039 {
   top: 694px;
   left: 56px;
   color: rgba(64, 46, 16, 1);
@@ -665,7 +975,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text025 {
+.intervet-clnica-landing-page-mobile-text041 {
   top: 1969px;
   left: 99px;
   color: rgba(129, 179, 54, 1);
@@ -681,7 +991,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text029 {
+.intervet-clnica-landing-page-mobile-text045 {
   top: 6438.18603515625px;
   left: 89.2772216796875px;
   color: rgba(255, 255, 255, 1);
@@ -697,7 +1007,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text031 {
+.intervet-clnica-landing-page-mobile-text047 {
   top: 4014.35400390625px;
   left: 55px;
   color: rgba(255, 255, 255, 1);
@@ -713,10 +1023,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text032 {
+.intervet-clnica-landing-page-mobile-text048 {
   font-weight: 800;
 }
-.intervet-clnica-landing-page-mobile-text034 {
+.intervet-clnica-landing-page-mobile-text050 {
   top: 2057px;
   left: 55px;
   color: rgba(64, 46, 16, 1);
@@ -732,7 +1042,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text040 {
+.intervet-clnica-landing-page-mobile-text056 {
   top: 6473.93310546875px;
   left: 51px;
   color: rgba(255, 255, 255, 1);
@@ -748,11 +1058,11 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text041 {
+.intervet-clnica-landing-page-mobile-text057 {
   font-weight: 400;
   text-decoration: NONE;
 }
-.intervet-clnica-landing-page-mobile-text043 {
+.intervet-clnica-landing-page-mobile-text059 {
   top: 8916px;
   left: 56.95458984375px;
   color: rgba(255, 255, 255, 1);
@@ -768,7 +1078,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text045 {
+.intervet-clnica-landing-page-mobile-text061 {
   top: 9248px;
   left: 35px;
   color: rgba(255, 255, 255, 1);
@@ -784,7 +1094,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text047 {
+.intervet-clnica-landing-page-mobile-text063 {
   top: 11186.2431640625px;
   left: 52.5380859375px;
   color: rgba(255, 255, 255, 1);
@@ -810,7 +1120,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text053 {
+.intervet-clnica-landing-page-mobile-text069 {
   color: rgba(129, 179, 54, 1);
   width: 319px;
   height: auto;
@@ -824,7 +1134,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text057 {
+.intervet-clnica-landing-page-mobile-text073 {
   top: 73.33322143554688px;
   left: 8.55555534362793px;
   color: rgba(64, 46, 16, 1);
@@ -840,7 +1150,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text061 {
+.intervet-clnica-landing-page-mobile-text077 {
   top: 127.56814575195312px;
   left: 31.78374481201172px;
   color: rgba(129, 179, 54, 1);
@@ -856,15 +1166,15 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text062 {
+.intervet-clnica-landing-page-mobile-text078 {
   color: rgba(129, 179, 54, 1);
   font-weight: 800;
 }
-.intervet-clnica-landing-page-mobile-text064 {
+.intervet-clnica-landing-page-mobile-text080 {
   color: rgba(129, 179, 54, 1);
   font-weight: 800;
 }
-.intervet-clnica-landing-page-mobile-text068 {
+.intervet-clnica-landing-page-mobile-text084 {
   top: 4919px;
   left: 25px;
   color: rgba(129, 179, 54, 1);
@@ -880,22 +1190,22 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text069 {
+.intervet-clnica-landing-page-mobile-text085 {
   font-weight: 800;
 }
-.intervet-clnica-landing-page-mobile-text071 {
+.intervet-clnica-landing-page-mobile-text087 {
   font-weight: 800;
 }
-.intervet-clnica-landing-page-mobile-text073 {
+.intervet-clnica-landing-page-mobile-text089 {
   font-weight: 800;
 }
-.intervet-clnica-landing-page-mobile-text074 {
+.intervet-clnica-landing-page-mobile-text090 {
   color: rgba(129, 179, 54, 1);
 }
-.intervet-clnica-landing-page-mobile-text076 {
+.intervet-clnica-landing-page-mobile-text092 {
   color: rgba(129, 179, 54, 1);
 }
-.intervet-clnica-landing-page-mobile-text080 {
+.intervet-clnica-landing-page-mobile-text096 {
   top: 5669px;
   left: 62px;
   color: rgba(255, 255, 255, 1);
@@ -911,13 +1221,13 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text081 {
+.intervet-clnica-landing-page-mobile-text097 {
   font-weight: 800;
 }
-.intervet-clnica-landing-page-mobile-text083 {
+.intervet-clnica-landing-page-mobile-text099 {
   font-weight: 800;
 }
-.intervet-clnica-landing-page-mobile-text087 {
+.intervet-clnica-landing-page-mobile-text103 {
   top: 7153px;
   left: 37px;
   color: rgba(255, 255, 255, 1);
@@ -933,7 +1243,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-group3 {
+.intervet-clnica-landing-page-mobile-group31 {
   top: 1610px;
   left: 88px;
   width: 253px;
@@ -953,8 +1263,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(255, 255, 255, 1);
+  border-radius: 50px;
 }
-.intervet-clnica-landing-page-mobile-group11 {
+.intervet-clnica-landing-page-mobile-group102 {
   top: 12.720685958862305px;
   left: 25.441286087036133px;
   width: 157.83238220214844px;
@@ -1023,7 +1334,7 @@
   height: 20px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text093 {
+.intervet-clnica-landing-page-mobile-text109 {
   top: 1.4133907556533813px;
   left: 43.83238220214844px;
   color: rgba(241, 104, 58, 1);
@@ -1038,10 +1349,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text094 {
+.intervet-clnica-landing-page-mobile-text110 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text096 {
+.intervet-clnica-landing-page-mobile-text112 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-cta04 {
@@ -1054,8 +1365,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(68, 170, 75, 1);
+  border-radius: 50px;
 }
-.intervet-clnica-landing-page-mobile-group21 {
+.intervet-clnica-landing-page-mobile-group22 {
   top: 12.720656394958496px;
   left: 25.441341400146484px;
   width: 200.925048828125px;
@@ -1065,7 +1377,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text098 {
+.intervet-clnica-landing-page-mobile-text114 {
   top: 1.4133607149124146px;
   left: 40.925045013427734px;
   color: rgba(255, 255, 255, 1);
@@ -1080,10 +1392,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text099 {
+.intervet-clnica-landing-page-mobile-text115 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text101 {
+.intervet-clnica-landing-page-mobile-text117 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-vector058 {
@@ -1093,7 +1405,7 @@
   height: 34px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text103 {
+.intervet-clnica-landing-page-mobile-text119 {
   color: rgba(64, 46, 16, 1);
   width: 253px;
   height: auto;
@@ -1127,8 +1439,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(255, 255, 255, 1);
+  border-radius:50px;
 }
-.intervet-clnica-landing-page-mobile-group12 {
+.intervet-clnica-landing-page-mobile-group103 {
   top: 11.276646614074707px;
   left: 22.553335189819336px;
   width: 139.85671997070312px;
@@ -1197,7 +1510,7 @@
   height: 18px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text107 {
+.intervet-clnica-landing-page-mobile-text123 {
   top: 1.2527559995651245px;
   left: 38.85672378540039px;
   color: rgba(68, 170, 75, 1);
@@ -1212,10 +1525,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text108 {
+.intervet-clnica-landing-page-mobile-text124 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text110 {
+.intervet-clnica-landing-page-mobile-text126 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-cta06 {
@@ -1228,8 +1541,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(68, 170, 75, 1);
+  border-radius:50px;
 }
-.intervet-clnica-landing-page-mobile-group22 {
+.intervet-clnica-landing-page-mobile-group23 {
   top: 11.276535034179688px;
   left: 22.553302764892578px;
   width: 178.27932739257812px;
@@ -1239,7 +1553,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text112 {
+.intervet-clnica-landing-page-mobile-text128 {
   top: 1.2531323432922363px;
   left: 36.279335021972656px;
   color: rgba(255, 255, 255, 1);
@@ -1254,10 +1568,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text113 {
+.intervet-clnica-landing-page-mobile-text129 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text115 {
+.intervet-clnica-landing-page-mobile-text131 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-vector066 {
@@ -1267,7 +1581,7 @@
   height: 30px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text117 {
+.intervet-clnica-landing-page-mobile-text133 {
   color: rgba(255, 255, 255, 1);
   width: 317px;
   height: auto;
@@ -1301,8 +1615,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(255, 255, 255, 1);
+  border-radius:50px;
 }
-.intervet-clnica-landing-page-mobile-group13 {
+.intervet-clnica-landing-page-mobile-group104 {
   top: 12.31855297088623px;
   left: 24.6368350982666px;
   width: 153.4463653564453px;
@@ -1371,7 +1686,7 @@
   height: 20px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text121 {
+.intervet-clnica-landing-page-mobile-text137 {
   top: 1.3689087629318237px;
   left: 42.44636917114258px;
   color: rgba(68, 170, 75, 1);
@@ -1386,10 +1701,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text122 {
+.intervet-clnica-landing-page-mobile-text138 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text124 {
+.intervet-clnica-landing-page-mobile-text140 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-cta08 {
@@ -1402,8 +1717,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(68, 170, 75, 1);
+  border-radius:50px;
 }
-.intervet-clnica-landing-page-mobile-group23 {
+.intervet-clnica-landing-page-mobile-group24 {
   top: 12.318460464477539px;
   left: 24.636871337890625px;
   width: 194.63095092773438px;
@@ -1413,7 +1729,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text126 {
+.intervet-clnica-landing-page-mobile-text142 {
   top: 1.3688160181045532px;
   left: 39.63094711303711px;
   color: rgba(255, 255, 255, 1);
@@ -1428,10 +1744,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text127 {
+.intervet-clnica-landing-page-mobile-text143 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text129 {
+.intervet-clnica-landing-page-mobile-text145 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-vector074 {
@@ -1441,7 +1757,7 @@
   height: 33px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text131 {
+.intervet-clnica-landing-page-mobile-text147 {
   color: rgba(255, 255, 255, 1);
   width: 245px;
   height: auto;
@@ -1475,8 +1791,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(241, 104, 58, 1);
+  border-radius:50px;
 }
-.intervet-clnica-landing-page-mobile-group14 {
+.intervet-clnica-landing-page-mobile-group105 {
   top: 13.424586296081543px;
   left: 26.84919548034668px;
   width: 166.25784301757812px;
@@ -1545,7 +1862,7 @@
   height: 22px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text135 {
+.intervet-clnica-landing-page-mobile-text151 {
   top: 1.4916460514068604px;
   left: 46.25783920288086px;
   color: rgba(255, 255, 255, 1);
@@ -1560,10 +1877,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text136 {
+.intervet-clnica-landing-page-mobile-text152 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text138 {
+.intervet-clnica-landing-page-mobile-text154 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-cta10 {
@@ -1576,8 +1893,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(129, 179, 54, 1);
+  border-radius:50px;
 }
-.intervet-clnica-landing-page-mobile-group24 {
+.intervet-clnica-landing-page-mobile-group25 {
   top: 13.424544334411621px;
   left: 26.84916114807129px;
   width: 212.1896514892578px;
@@ -1587,7 +1905,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text140 {
+.intervet-clnica-landing-page-mobile-text156 {
   top: 1.4916037321090698px;
   left: 43.18965530395508px;
   color: rgba(255, 255, 255, 1);
@@ -1602,10 +1920,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text141 {
+.intervet-clnica-landing-page-mobile-text157 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text143 {
+.intervet-clnica-landing-page-mobile-text159 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-vector082 {
@@ -1615,7 +1933,7 @@
   height: 36px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text145 {
+.intervet-clnica-landing-page-mobile-text161 {
   color: rgba(129, 179, 54, 1);
   width: 267px;
   height: auto;
@@ -1649,8 +1967,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(241, 104, 58, 1);
+  border-radius:50px;
 }
-.intervet-clnica-landing-page-mobile-group15 {
+.intervet-clnica-landing-page-mobile-group106 {
   top: 12.318195343017578px;
   left: 24.6368350982666px;
   width: 153.4463653564453px;
@@ -1719,7 +2038,7 @@
   height: 20px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text149 {
+.intervet-clnica-landing-page-mobile-text165 {
   top: 1.3685513734817505px;
   left: 42.44636917114258px;
   color: rgba(255, 255, 255, 1);
@@ -1734,10 +2053,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text150 {
+.intervet-clnica-landing-page-mobile-text166 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text152 {
+.intervet-clnica-landing-page-mobile-text168 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-cta12 {
@@ -1750,8 +2069,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(129, 179, 54, 1);
+  border-radius:50px;
 }
-.intervet-clnica-landing-page-mobile-group25 {
+.intervet-clnica-landing-page-mobile-group26 {
   top: 12.318591117858887px;
   left: 24.636871337890625px;
   width: 194.63095092773438px;
@@ -1761,7 +2081,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text154 {
+.intervet-clnica-landing-page-mobile-text170 {
   top: 1.36894690990448px;
   left: 39.63094711303711px;
   color: rgba(255, 255, 255, 1);
@@ -1776,10 +2096,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text155 {
+.intervet-clnica-landing-page-mobile-text171 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text157 {
+.intervet-clnica-landing-page-mobile-text173 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-vector090 {
@@ -1789,7 +2109,7 @@
   height: 33px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text159 {
+.intervet-clnica-landing-page-mobile-text175 {
   color: rgba(129, 179, 54, 1);
   width: 245px;
   height: auto;
@@ -1813,7 +2133,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text165 {
+.intervet-clnica-landing-page-mobile-text181 {
   top: 76px;
   color: rgba(63, 46, 16, 1);
   width: 166px;
@@ -1828,7 +2148,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text167 {
+.intervet-clnica-landing-page-mobile-text183 {
   top: 120px;
   color: rgba(63, 46, 16, 1);
   width: 166px;
@@ -1912,7 +2232,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text169 {
+.intervet-clnica-landing-page-mobile-text185 {
   top: 70px;
   color: rgba(63, 46, 16, 1);
   width: 166px;
@@ -1927,7 +2247,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text173 {
+.intervet-clnica-landing-page-mobile-text189 {
   top: 114px;
   left: 8px;
   color: rgba(63, 46, 16, 1);
@@ -1998,8 +2318,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(239, 181, 81, 1);
+  border-radius:50px;
 }
-.intervet-clnica-landing-page-mobile-group16 {
+.intervet-clnica-landing-page-mobile-group107 {
   top: 10.811920166015625px;
   left: 21.624160766601562px;
   width: 134.255859375px;
@@ -2068,7 +2389,7 @@
   height: 17px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text175 {
+.intervet-clnica-landing-page-mobile-text191 {
   top: 1.2012505531311035px;
   left: 37.25585174560547px;
   color: rgba(255, 255, 255, 1);
@@ -2083,10 +2404,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text176 {
+.intervet-clnica-landing-page-mobile-text192 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text178 {
+.intervet-clnica-landing-page-mobile-text194 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-estrutura {
@@ -2099,7 +2420,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text180 {
+.intervet-clnica-landing-page-mobile-text196 {
   top: 74.14794921875px;
   color: rgba(63, 46, 16, 1);
   width: 166px;
@@ -2114,7 +2435,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text184 {
+.intervet-clnica-landing-page-mobile-text200 {
   top: 118.14794921875px;
   left: 8px;
   color: rgba(63, 46, 16, 1);
@@ -2311,7 +2632,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text190 {
+.intervet-clnica-landing-page-mobile-text206 {
   top: 68px;
   color: rgba(63, 46, 16, 1);
   width: 166px;
@@ -2326,7 +2647,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text192 {
+.intervet-clnica-landing-page-mobile-text208 {
   top: 98px;
   left: 8px;
   color: rgba(63, 46, 16, 1);
@@ -2376,7 +2697,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text194 {
+.intervet-clnica-landing-page-mobile-text210 {
   top: 68px;
   color: rgba(63, 46, 16, 1);
   width: 166px;
@@ -2391,7 +2712,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text196 {
+.intervet-clnica-landing-page-mobile-text212 {
   top: 112px;
   left: 8px;
   color: rgba(63, 46, 16, 1);
@@ -2476,7 +2797,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text198 {
+.intervet-clnica-landing-page-mobile-text214 {
   top: 66px;
   color: rgba(63, 46, 16, 1);
   width: 166px;
@@ -2491,7 +2812,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text200 {
+.intervet-clnica-landing-page-mobile-text216 {
   top: 92px;
   left: 5px;
   color: rgba(63, 46, 16, 1);
@@ -2611,7 +2932,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text202 {
+.intervet-clnica-landing-page-mobile-text218 {
   top: 74px;
   color: rgba(63, 46, 16, 1);
   width: 166px;
@@ -2626,7 +2947,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text204 {
+.intervet-clnica-landing-page-mobile-text220 {
   top: 105px;
   color: rgba(63, 46, 16, 1);
   width: 166px;
@@ -2710,7 +3031,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text206 {
+.intervet-clnica-landing-page-mobile-text222 {
   top: 68px;
   color: rgba(63, 46, 16, 1);
   width: 166px;
@@ -2725,7 +3046,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text208 {
+.intervet-clnica-landing-page-mobile-text224 {
   top: 112px;
   left: 8px;
   color: rgba(63, 46, 16, 1);
@@ -2803,7 +3124,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-group4 {
+.intervet-clnica-landing-page-mobile-group41 {
   top: 0px;
   left: 0px;
   width: 388px;
@@ -2813,7 +3134,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-maskgroup01 {
+.intervet-clnica-landing-page-mobile-maskgroup05 {
   top: 0px;
   left: 0px;
   width: 183.16201782226562px;
@@ -2824,6 +3145,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius: 50px
 }
 .intervet-clnica-landing-page-mobile-consultas1 {
   top: -9.7540922164917px;
@@ -2842,7 +3164,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text210 {
+.intervet-clnica-landing-page-mobile-text226 {
   top: 0.00002523240982554853px;
   left: 33.597740173339844px;
   color: rgba(129, 179, 54, 1);
@@ -2858,7 +3180,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text212 {
+.intervet-clnica-landing-page-mobile-text228 {
   top: 48.770973205566406px;
   left: -0.00002386849700997118px;
   color: rgba(64, 46, 16, 1);
@@ -2874,7 +3196,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text214 {
+.intervet-clnica-landing-page-mobile-text230 {
   top: 152.815673828125px;
   left: -0.00002386849700997118px;
   color: rgba(255, 74, 74, 1);
@@ -3170,7 +3492,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-maskgroup02 {
+.intervet-clnica-landing-page-mobile-maskgroup06 {
   top: 0px;
   left: 0px;
   width: 183.16201782226562px;
@@ -3181,6 +3503,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-consultas11 {
   top: 0.00007228744652820751px;
@@ -3199,7 +3522,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text216 {
+.intervet-clnica-landing-page-mobile-text232 {
   top: 0.000025914367142831907px;
   left: 28.178747177124023px;
   color: rgba(129, 179, 54, 1);
@@ -3215,7 +3538,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text220 {
+.intervet-clnica-landing-page-mobile-text236 {
   top: 48.77097702026367px;
   left: -0.00002386849700997118px;
   color: rgba(64, 46, 16, 1);
@@ -3241,7 +3564,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-maskgroup03 {
+.intervet-clnica-landing-page-mobile-maskgroup07 {
   top: 0px;
   left: 0px;
   width: 183.16201782226562px;
@@ -3252,6 +3575,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-consultas12 {
   top: -0.7522095441818237px;
@@ -3270,7 +3594,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text222 {
+.intervet-clnica-landing-page-mobile-text238 {
   top: -0.00010774921247502789px;
   left: 28.178747177124023px;
   color: rgba(129, 179, 54, 1);
@@ -3286,7 +3610,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text224 {
+.intervet-clnica-landing-page-mobile-text240 {
   top: 48.770843505859375px;
   left: -0.00002386849700997118px;
   color: rgba(64, 46, 16, 1);
@@ -3312,7 +3636,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-maskgroup04 {
+.intervet-clnica-landing-page-mobile-maskgroup08 {
   top: -0.00003682568058138713px;
   left: 204.83798217773438px;
   width: 183.16201782226562px;
@@ -3323,6 +3647,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-closeupveterinarydoctortakingcarepet1 {
   top: -57.95046615600586px;
@@ -3341,7 +3666,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text226 {
+.intervet-clnica-landing-page-mobile-text242 {
   top: 0.000008865441486705095px;
   left: 28.178770065307617px;
   color: rgba(129, 179, 54, 1);
@@ -3357,7 +3682,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text230 {
+.intervet-clnica-landing-page-mobile-text246 {
   top: 48.770957946777344px;
   color: rgba(64, 46, 16, 1);
   width: 183px;
@@ -3382,7 +3707,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-maskgroup05 {
+.intervet-clnica-landing-page-mobile-maskgroup09 {
   top: -0.00006274005136219785px;
   left: 204.83798217773438px;
   width: 183.16201782226562px;
@@ -3411,7 +3736,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text232 {
+.intervet-clnica-landing-page-mobile-text248 {
   top: -0.00010911312710959464px;
   left: 28.178770065307617px;
   color: rgba(129, 179, 54, 1);
@@ -3427,7 +3752,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text236 {
+.intervet-clnica-landing-page-mobile-text252 {
   top: 48.77083969116211px;
   color: rgba(157, 157, 157, 1);
   width: 183px;
@@ -3452,7 +3777,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-maskgroup06 {
+.intervet-clnica-landing-page-mobile-maskgroup10 {
   top: -0.00006274005136219785px;
   left: 204.83798217773438px;
   width: 183.16201782226562px;
@@ -3463,6 +3788,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-consultas14 {
   top: -0.00006274005136219785px;
@@ -3481,7 +3807,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text238 {
+.intervet-clnica-landing-page-mobile-text254 {
   color: rgba(64, 46, 16, 1);
   width: 183px;
   height: auto;
@@ -3505,7 +3831,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-maskgroup07 {
+.intervet-clnica-landing-page-mobile-maskgroup11 {
   top: 0.00015548621013294905px;
   left: 204.83798217773438px;
   width: 183.16201782226562px;
@@ -3516,6 +3842,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
 }
 .intervet-clnica-landing-page-mobile-consultas15 {
   top: -69.36322021484375px;
@@ -3534,7 +3861,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text240 {
+.intervet-clnica-landing-page-mobile-text256 {
   top: 0.00010911312710959464px;
   left: 28.178770065307617px;
   color: rgba(129, 179, 54, 1);
@@ -3550,7 +3877,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text244 {
+.intervet-clnica-landing-page-mobile-text260 {
   top: 48.77105712890625px;
   color: rgba(64, 46, 16, 1);
   width: 183px;
@@ -3575,7 +3902,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-maskgroup08 {
+.intervet-clnica-landing-page-mobile-maskgroup12 {
   top: 0px;
   left: 0px;
   width: 358px;
@@ -3626,7 +3953,7 @@
   height: 335px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-maskgroup09 {
+.intervet-clnica-landing-page-mobile-maskgroup13 {
   top: 0px;
   left: 0px;
   width: 383.87640380859375px;
@@ -3641,6 +3968,213 @@
   left: -0.67877197265625px;
   width: 378px;
   height: 341px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-frame2 {
+  top: 4130.5302734375px;
+  left: 0px;
+  width: 430px;
+  height: 441px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  overflow-x: auto; /* Permitir rolagem horizontal */
+  white-space: nowrap; /* Evitar quebra de linha */
+}
+.intervet-clnica-landing-page-mobile-mdicos {
+  top: 0px;
+  left: 72px;
+  width: 1595px;
+  height: 441px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.intervet-clnica-landing-page-mobile-mdicos span,
+.intervet-clnica-landing-page-mobile-mdicos div {
+  display: inline-block;
+  margin-right: 20px; /* Espaçamento entre os itens */
+}
+.intervet-clnica-landing-page-mobile-text262 {
+  top: 365px;
+  left: 1px;
+  color: rgba(255, 255, 255, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 92.00000166893005%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text266 {
+  top: 365px;
+  left: 328px;
+  color: rgba(255, 255, 255, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 92.00000166893005%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text270 {
+  top: 365px;
+  left: 655px;
+  color: rgba(255, 255, 255, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 92.00000166893005%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text274 {
+  top: 365px;
+  left: 982px;
+  color: rgba(255, 255, 255, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 92.00000166893005%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-text278 {
+  top: 365px;
+  left: 1309px;
+  color: rgba(255, 255, 255, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  line-height: 92.00000166893005%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.intervet-clnica-landing-page-mobile-maskgroup14 {
+  top: 0px;
+  left: 0px;
+  width: 287px;
+  height: 338px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
+}
+.intervet-clnica-landing-page-mobile-wander1 {
+  top: 0px;
+  left: -34px;
+  width: 350px;
+  height: 339px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-maskgroup15 {
+  top: 0px;
+  left: 327px;
+  width: 287px;
+  height: 338px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
+}
+.intervet-clnica-landing-page-mobile-wander11 {
+  top: 0px;
+  left: -34px;
+  width: 350px;
+  height: 339px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-maskgroup16 {
+  top: 0px;
+  left: 654px;
+  width: 287px;
+  height: 338px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
+}
+.intervet-clnica-landing-page-mobile-wander12 {
+  top: 0px;
+  left: -34px;
+  width: 350px;
+  height: 339px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-maskgroup17 {
+  top: 0px;
+  left: 981px;
+  width: 287px;
+  height: 338px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
+}
+.intervet-clnica-landing-page-mobile-wander13 {
+  top: 0px;
+  left: -34px;
+  width: 350px;
+  height: 339px;
+  position: absolute;
+}
+.intervet-clnica-landing-page-mobile-maskgroup18 {
+  top: 0px;
+  left: 1308px;
+  width: 287px;
+  height: 338px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+  border-radius:50px;
+}
+.intervet-clnica-landing-page-mobile-wander14 {
+  top: 0px;
+  left: -34px;
+  width: 350px;
+  height: 339px;
   position: absolute;
 }
 .intervet-clnica-landing-page-mobile-frame1 {
@@ -3668,7 +4202,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text246 {
+.intervet-clnica-landing-page-mobile-text282 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -3718,7 +4252,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text248 {
+.intervet-clnica-landing-page-mobile-text284 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -3768,7 +4302,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text250 {
+.intervet-clnica-landing-page-mobile-text286 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -3818,7 +4352,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text254 {
+.intervet-clnica-landing-page-mobile-text290 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -3868,7 +4402,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text256 {
+.intervet-clnica-landing-page-mobile-text292 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -3918,7 +4452,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text260 {
+.intervet-clnica-landing-page-mobile-text296 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -3968,7 +4502,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text264 {
+.intervet-clnica-landing-page-mobile-text300 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -4018,7 +4552,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text268 {
+.intervet-clnica-landing-page-mobile-text304 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -4068,7 +4602,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text270 {
+.intervet-clnica-landing-page-mobile-text306 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -4118,7 +4652,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text274 {
+.intervet-clnica-landing-page-mobile-text310 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -4168,7 +4702,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text276 {
+.intervet-clnica-landing-page-mobile-text312 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -4218,7 +4752,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text280 {
+.intervet-clnica-landing-page-mobile-text316 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -4268,7 +4802,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text282 {
+.intervet-clnica-landing-page-mobile-text318 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -4318,7 +4852,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text286 {
+.intervet-clnica-landing-page-mobile-text322 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -4368,7 +4902,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text290 {
+.intervet-clnica-landing-page-mobile-text326 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -4418,7 +4952,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.intervet-clnica-landing-page-mobile-text292 {
+.intervet-clnica-landing-page-mobile-text328 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -4453,7 +4987,7 @@
   height: 7px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-maskgroup10 {
+.intervet-clnica-landing-page-mobile-maskgroup19 {
   top: 8998px;
   left: 36px;
   width: 361.04541015625px;
@@ -4464,6 +4998,7 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
+  border-radius: 50px;
 }
 .intervet-clnica-landing-page-mobile-image921b64cdeeb3704e093f9873c82c01571 {
   top: -21.677734375px;
@@ -4520,7 +5055,7 @@
   height: 15px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text294 {
+.intervet-clnica-landing-page-mobile-text330 {
   top: 3px;
   left: 5px;
   color: rgba(0, 0, 0, 0.800000011920929);
@@ -4542,7 +5077,7 @@
   height: 15px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text296 {
+.intervet-clnica-landing-page-mobile-text332 {
   top: 3px;
   left: 127px;
   color: rgba(0, 0, 0, 0.800000011920929);
@@ -4564,7 +5099,7 @@
   height: 15px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text298 {
+.intervet-clnica-landing-page-mobile-text334 {
   top: 3px;
   left: 198px;
   color: rgba(0, 0, 0, 0.800000011920929);
@@ -4733,7 +5268,7 @@
   position: absolute;
   border-radius: 2px;
 }
-.intervet-clnica-landing-page-mobile-text300 {
+.intervet-clnica-landing-page-mobile-text336 {
   top: 8px;
   left: 46px;
   color: rgba(86, 86, 86, 1);
@@ -4755,7 +5290,7 @@
   height: 1px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text302 {
+.intervet-clnica-landing-page-mobile-text338 {
   top: 8px;
   left: 8px;
   color: rgba(0, 0, 0, 1);
@@ -4790,8 +5325,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(241, 104, 58, 1);
+  border-radius:50px;
 }
-.intervet-clnica-landing-page-mobile-group17 {
+.intervet-clnica-landing-page-mobile-group108 {
   top: 12.368109703063965px;
   left: 24.737506866455078px;
   width: 153.61962890625px;
@@ -4860,7 +5396,7 @@
   height: 20px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text304 {
+.intervet-clnica-landing-page-mobile-text340 {
   top: 1.375px;
   left: 42.61962890625px;
   color: rgba(255, 255, 255, 1);
@@ -4875,10 +5411,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text305 {
+.intervet-clnica-landing-page-mobile-text341 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text307 {
+.intervet-clnica-landing-page-mobile-text343 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-cta15 {
@@ -4891,8 +5427,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(129, 179, 54, 1);
+  border-radius:50px;
 }
-.intervet-clnica-landing-page-mobile-group26 {
+.intervet-clnica-landing-page-mobile-group27 {
   top: 12.3681640625px;
   left: 24.7374267578125px;
   width: 195.792724609375px;
@@ -4902,7 +5439,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text309 {
+.intervet-clnica-landing-page-mobile-text345 {
   top: 1.3740234375px;
   left: 39.792724609375px;
   color: rgba(255, 255, 255, 1);
@@ -4917,10 +5454,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text310 {
+.intervet-clnica-landing-page-mobile-text346 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text312 {
+.intervet-clnica-landing-page-mobile-text348 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-vector211 {
@@ -4930,7 +5467,7 @@
   height: 33px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text314 {
+.intervet-clnica-landing-page-mobile-text350 {
   color: rgba(129, 179, 54, 1);
   width: 246px;
   height: auto;
@@ -4954,7 +5491,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text316 {
+.intervet-clnica-landing-page-mobile-text352 {
   top: 114.66687774658203px;
   left: 2.199679374694824px;
   color: rgba(255, 255, 255, 1);
@@ -4970,7 +5507,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text318 {
+.intervet-clnica-landing-page-mobile-text354 {
   top: 223.8826446533203px;
   left: 2.199679374694824px;
   color: rgba(255, 255, 255, 1);
@@ -4986,7 +5523,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text320 {
+.intervet-clnica-landing-page-mobile-text356 {
   top: 176.548828125px;
   color: rgba(255, 255, 255, 1);
   width: 359px;
@@ -5001,7 +5538,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text324 {
+.intervet-clnica-landing-page-mobile-text360 {
   top: 252.82412719726562px;
   left: 55.14419937133789px;
   color: rgba(255, 255, 255, 1);
@@ -5037,8 +5574,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(241, 104, 58, 1);
+  border-radius:50px;
 }
-.intervet-clnica-landing-page-mobile-group18 {
+.intervet-clnica-landing-page-mobile-group109 {
   top: 9.529296875px;
   left: 19.0584716796875px;
   width: 118.8353271484375px;
@@ -5107,7 +5645,7 @@
   height: 15px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text326 {
+.intervet-clnica-landing-page-mobile-text362 {
   top: 1.0593897104263306px;
   left: 32.8353271484375px;
   color: rgba(255, 255, 255, 1);
@@ -5122,10 +5660,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text327 {
+.intervet-clnica-landing-page-mobile-text363 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text329 {
+.intervet-clnica-landing-page-mobile-text365 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-cta17 {
@@ -5138,8 +5676,9 @@
   align-items: flex-start;
   flex-shrink: 1;
   background-color: rgba(129, 179, 54, 1);
+  border-radius:50px;
 }
-.intervet-clnica-landing-page-mobile-group27 {
+.intervet-clnica-landing-page-mobile-group28 {
   top: 9.529296875px;
   left: 19.0584716796875px;
   width: 150.65750122070312px;
@@ -5149,7 +5688,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.intervet-clnica-landing-page-mobile-text331 {
+.intervet-clnica-landing-page-mobile-text367 {
   top: 1.0593897104263306px;
   left: 30.657499313354492px;
   color: rgba(255, 255, 255, 1);
@@ -5164,10 +5703,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text332 {
+.intervet-clnica-landing-page-mobile-text368 {
   font-weight: 400;
 }
-.intervet-clnica-landing-page-mobile-text334 {
+.intervet-clnica-landing-page-mobile-text370 {
   font-weight: 400;
 }
 .intervet-clnica-landing-page-mobile-vector219 {
@@ -5177,7 +5716,7 @@
   height: 25px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text336 {
+.intervet-clnica-landing-page-mobile-text372 {
   left: 61.01431655883789px;
   color: rgba(255, 255, 255, 1);
   width: 237px;
@@ -5192,7 +5731,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text338 {
+.intervet-clnica-landing-page-mobile-text374 {
   top: 10588.4248046875px;
   left: 124.5626220703125px;
   color: rgba(255, 255, 255, 1);
@@ -5232,7 +5771,7 @@
   height: 1096px;
   position: absolute;
 }
-.intervet-clnica-landing-page-mobile-text352 {
+.intervet-clnica-landing-page-mobile-text388 {
   top: 32px;
   left: 134px;
   color: rgba(248, 202, 142, 1);
@@ -5248,11 +5787,13 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.intervet-clnica-landing-page-mobile-text353 {
+.intervet-clnica-landing-page-mobile-text389 {
   color: rgba(248, 202, 142, 1);
   font-weight: 700;
 }
-.intervet-clnica-landing-page-mobile-text355 {
-  color: rgba(248, 202, 142, 1);
-  font-weight: 700;
+.answer {
+  display: none;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #333;
 }
